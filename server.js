@@ -1,3 +1,9 @@
+/* crete .env fiile in root directory
+ * PORT = 8080;
+ * BASE_URL = "http://localhost:8080";
+ * OPENAI_API_KEY = "YOUR API KEY";
+ */
+
 //import modules: express, dotenv
 const express = require("express");
 const dotenv = require("dotenv");
