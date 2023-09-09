@@ -1,6 +1,6 @@
 //import modules: express, dotenv
-const express = require('express');
-const dotenv = require('dotenv');
+const express = require("express");
+const dotenv = require("dotenv");
 const app = express();
 
 //accept json data in requests
@@ -10,52 +10,49 @@ app.use(express.json());
 dotenv.config();
 
 //OpenAIApi Configuration
-const { Configuration, OpenAIApi } = require('openai');
+const OpenAI = require("openai");
 
-const configuration = new Configuration({
-    apiKey: process.env.OPENAI_API_KEY
-});
 //build openai instance using OpenAIApi
-const openai = new OpenAIApi(configuration);
+const openai = new OpenAI({
+  apiKey: process.env.OPENAI_API_KEY,
+});
 
 //build the runCompletion which sends a request to the OPENAI Completion API
 async function runCompletion(prompt) {
-    const response = await openai.createCompletion({
-        model: "text-davinci-003",
-        prompt: prompt,
-        max_tokens: 50
-    });
-    return response;
+  const response = await openai.completions.create({
+    model: "text-davinci-003",
+    prompt: prompt,
+    max_tokens: 50,
+  });
+  return response;
 }
 
 //post request to /api/chatgpt
-app.post('/api/chatgpt', async (req, res) => {
-    try {
-        //extract the text from the request body
-        const { text } = req.body;
+app.post("/api/chatgpt", async (req, res) => {
+  try {
+    //extract the text from the request body
+    const { text } = req.body;
 
-        // Pass the request text to the runCompletion function
-        const completion = await runCompletion(text);
+    // Pass the request text to the runCompletion function
+    const completion = await runCompletion(text);
 
-        // Return the completion as a JSON response
-        res.json({ data: completion.data });
-
-    } catch (error) {
-        //handle the error in the catch statement
-        if (error.response) {
-            console.error(error.response.status, error.response.data);
-            res.status(error.response.status).json(error.response.data)
-        } else {
-            console.error('Error with OPENAI API request:', error.message);
-            res.status(500).json({
-                error: {
-                    message: 'An error occured during your request.'
-                }
-            })
-        }
+    // Return the completion as a JSON response
+    res.json({ data: completion.data });
+  } catch (error) {
+    //handle the error in the catch statement
+    if (error.response) {
+      console.error(error.response.status, error.response.data);
+      res.status(error.response.status).json(error.response.data);
+    } else {
+      console.error("Error with OPENAI API request:", error.message);
+      res.status(500).json({
+        error: {
+          message: "An error occured during your request.",
+        },
+      });
     }
-})
-
+  }
+});
 
 //set the PORT
 const PORT = process.env.PORT || 5000;
@@ -63,9 +60,16 @@ const PORT = process.env.PORT || 5000;
 //start the server on the chosen PORT
 app.listen(PORT, console.log(`Server started on port ${PORT}`));
 
+////////////////////////////
+// getting number of tokens
+const OpenAI_encoder = require("gpt-3-encoder");
 
-const { encode, decode } = require('gpt-3-encoder');
-
-const x = encode('This is some text');
-const cost_per_token = 1.5/1000000;
-console.log(4000 * cost_per_token);
+const x = OpenAI_encoder.encode("This is some text");
+const cost_per_token = 1.5 / 1000000;
+console.log(
+  `
+Number Tokens: ${x.length}
+TokensIDS: ${x}
+Cost per query: $ ${4000 * cost_per_token} USD
+  `
+);
