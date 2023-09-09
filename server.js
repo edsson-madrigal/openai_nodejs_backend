@@ -27,18 +27,30 @@ async function runCompletion(prompt) {
   return response;
 }
 
+app.get("/api/chatgpt", async (req, res) => {
+  console.log("GET request to /api/chatgpt");
+
+  res.send("Hello World!");
+});
+
 //post request to /api/chatgpt
 app.post("/api/chatgpt", async (req, res) => {
+  console.log("POST request to /api/chatgpt");
+
   try {
     //extract the text from the request body
     const { text } = req.body;
+    console.log("Input: ", text);
 
     // Pass the request text to the runCompletion function
     const completion = await runCompletion(text);
+    console.log("Output: ", completion);
 
     // Return the completion as a JSON response
-    res.json({ data: completion.data });
+    res.json({ data: completion });
   } catch (error) {
+    console.log("Error: ", error);
+
     //handle the error in the catch statement
     if (error.response) {
       console.error(error.response.status, error.response.data);
