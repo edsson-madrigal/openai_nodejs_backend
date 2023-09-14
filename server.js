@@ -30,10 +30,11 @@ async function runCompletion(prompt) {
     prompt: prompt,
     temperature: 1,
     top_p: 1,
-    n: 3,
+    n: 1,
     max_tokens: 50,
     frequency_penalty: 0,
     presence_penalty: 0,
+    echo: true,
   });
   return response;
 }
