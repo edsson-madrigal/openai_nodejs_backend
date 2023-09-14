@@ -28,7 +28,12 @@ async function runCompletion(prompt) {
   const response = await openai.completions.create({
     model: "text-davinci-003",
     prompt: prompt,
+    temperature: 1,
+    top_p: 1,
+    n: 3,
     max_tokens: 50,
+    frequency_penalty: 0,
+    presence_penalty: 0,
   });
   return response;
 }
