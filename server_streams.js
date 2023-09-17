@@ -25,10 +25,11 @@ const openai = new OpenAI({
 
 //start stream
 async function startCompletionStream(prompt) {
-  const stream = await openai.completions.create(
+  const stream = await openai.chat.completions.create(
     {
-      model: "text-davinci-003",
-      prompt: prompt,
+      //https://platform.openai.com/docs/models/overview
+      model: "gpt-3.5-turbo",
+      messages: prompt,
       stream: true,
       max_tokens: 200,
     },
@@ -38,8 +39,16 @@ async function startCompletionStream(prompt) {
   );
 
   for await (const part of stream) {
-    process.stdout.write(part.choices[0].text);
+    if (part?.choices[0]?.delta?.content) {
+      process.stdout.write(part?.choices[0]?.delta?.content);
+    }
   }
 }
 
-startCompletionStream("Randomly list 10 countries and their capitals:");
+let prompt = [
+  {
+    role: "user",
+    content: "Randomly list 3 countries and their capitals:",
+  },
+];
+startCompletionStream(prompt);
