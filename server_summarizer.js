@@ -85,7 +85,8 @@ const splitTextIntoChunks = (text, maxChunkSize) => {
   const sentences = text.split(".");
 
   //Loop over the sentences
-  sentences.forEach((sentence) => {
+  sentences.forEach((sentence, i) => {
+    console.log(`. Spliting ${i}/${sentences.length - 1}`);
     //For each sentence:
     //if the number of tokens in the combination of currentChunk and sentence < 2000
     //keep adding sentences to the currentChunk
@@ -114,7 +115,102 @@ const splitTextIntoChunks = (text, maxChunkSize) => {
   //return the chunks array
 };
 
+const aiChat = async (story, question) => {
+  try {
+    // Making a request to the OpenAI API to summarise the chunk
+
+    const response = await openai.chat.completions.create({
+      model: "gpt-3.5-turbo-16k",
+      messages: [
+        {
+          role: "user",
+          content: question + "  ```" + story + "```",
+        },
+      ],
+      temperature: 1,
+      max_tokens: 4000,
+      top_p: 1,
+      frequency_penalty: 0,
+      presence_penalty: 0,
+    });
+
+    //return the summary
+    console.log(`${question}\n`);
+    console.log(`${response.choices[0].message.content}\n`);
+    return response.choices[0].message.content;
+  } catch (error) {
+    console.log("summarizeChunk error", error);
+    throw new Error(error);
+  }
+};
+
+const summarizeChunk = async function summarizeChunk(
+  chunk,
+  maxWords,
+  chunckNum,
+  chunckLength
+) {
+  // Creating a condition string based on the maxWords value
+  let condition = "";
+  if (maxWords) {
+    condition = `in about ${maxWords} words`;
+  }
+  try {
+    // Making a request to the OpenAI API to summarise the chunk
+
+    const response = await openai.chat.completions.create({
+      model: "gpt-3.5-turbo-16k",
+      messages: [
+        {
+          role: "user",
+          content: `Please summarize the following text ${condition}:\n"""${chunk}"""\n\nSummary:`,
+        },
+      ],
+      temperature: 1,
+      max_tokens: 4000,
+      top_p: 1,
+      frequency_penalty: 0,
+      presence_penalty: 0,
+    });
+
+    //return the summary
+    if (chunckNum && chunckLength) {
+      console.log(`- Summarizing chunk ${chunckNum}/${chunckLength}`);
+    } else if (maxWords) {
+      console.log(`\n\n###########################`);
+      console.log(`SUMMARY OF ${maxWords} WORDS\n`);
+    }
+    console.log(`${response.choices[0].message.content}\n`);
+    return response.choices[0].message.content;
+  } catch (error) {
+    console.log("summarizeChunk error", error);
+    throw new Error(error);
+  }
+};
+
+const summarizeChunks = async (chunks) => {
+  // Creating a delay function using setTimeout and Promises
+  const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+  // Summarizing each chunk by making API requests with delays in between using Promise.all
+  const summarisedChunks = await Promise.all(
+    chunks.map(async (chunk, i) => {
+      const result = await summarizeChunk(chunk, null, i + 1, chunks.length);
+      await delay(300);
+      return result;
+    })
+  );
+
+  // Concatenating the summarization results into a single string
+  const concatenatedText = summarisedChunks.join(" ");
+
+  // Returning the concatenated summarization text
+  return concatenatedText;
+};
+
 app.post("/api/summarizer", upload.single("pdf"), async (req, res) => {
+  console.log(`POST /api/summarizer`);
+
   try {
     // res.json({ file: req.file, body: req.body });
     const { maxWords } = req.body;
@@ -132,6 +228,8 @@ app.post("/api/summarizer", upload.single("pdf"), async (req, res) => {
       disableCombinedTextItems: false,
     };
 
+    console.log(`Extracting text from pdf`);
+
     const data = await pdfExtract.extract(pdfFile.path, extractOptions);
 
     const pdfText = data.pages
@@ -146,13 +244,40 @@ app.post("/api/summarizer", upload.single("pdf"), async (req, res) => {
       });
       return;
     }
+    console.log(`Finished extracting text from pdf`);
 
-    let summarisedText = pdfText;
-    const chunks = splitTextIntoChunks(pdfText, 2000);
-    const tokens = chunks.map((chunk) => encode(chunk).length);
-    res.json({ chunks, tokens });
+    // let summarisedText = pdfText;
+    // const chunks = splitTextIntoChunks(pdfText, 2000);
+    // const tokens = chunks.map((chunk) => encode(chunk).length);
+    // res.json({ chunks, tokens });
 
-    //res.json({ summarisedText });
+    let summarizedText = pdfText;
+
+    const maxToken = 4000;
+    while (calculateTokens(summarizedText) > maxToken) {
+      const newChunks = splitTextIntoChunks(summarizedText, maxToken);
+      summarizedText = await summarizeChunks(newChunks);
+      console.log("\n****************************");
+      console.log(`Summarized Tokens: ${calculateTokens(summarizedText)}`);
+      console.log(summarizedText);
+    }
+
+    summarizedMaxWords = await summarizeChunk(summarizedText, maxWords);
+
+    summarizedText = await aiChat(
+      summarizedText,
+      "List the characters of the following story delimited by ```"
+    );
+    summarizedText = await aiChat(
+      summarizedText,
+      "Describe no more than 50 words the battle against 'Minotaur' of the following story delimited by ```"
+    );
+    summarizedText = await aiChat(
+      summarizedText,
+      "List only the main characters and a short description of each character of the following story delimited by ```"
+    );
+
+    res.json({ summarizedMaxWords });
   } catch (error) {
     console.error("An error occured:", error);
     res.status(500).json({ error });
