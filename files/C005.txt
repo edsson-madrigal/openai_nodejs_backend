@@ -1,0 +1,98 @@
+CHAPTER 4 - MAGIC
+
+[talk] Mari: "What do you remember about cultivating?"
+[talk] Arek: "I have a vague recollection, but I'm not confident in the accuracy of my memories. As I understand it, the three doors I saw in my dream correspond to the three Dantians, which interact with different forms of energy. The upper Dantian represents the spirit, the lower Dantian controls the body, and the middle Dantian connects with ambient energy.”
+[talk] Mari: "Yes, there is indeed an ambient energy source known as Mana, and the middle Dantian allows us to tap into it. The lower Dantian regulates our internal energy that is called Ki. The upper Dantian manipulates Chakra which is used by the mind"
+[talk] Arek: “Ki, is the energy of the Body, Chakra, of the mind, and Mana, of the world?”
+[talk] Mari: “You could say that. You are no longer mortal and as a cultivator, you will learn to harness and control these energies as you progress on your cultivation journey"
+[talk] Arek: "Not mortal? Does that mean I'm immortal?"
+[talk] Mari: "The energy around us, known as Mana, can be converted into Ki and Chakra by our lower Dantian. Before awakening, you had to rely on food and oxygen to survive, but as a cultivator, your Ki body no longer needs these”
+[talk] Arek: "So I don't need to eat, drink, or breathe anymore?"
+[talk] Mari: "While you still have the urge for sustenance, you won't die from a lack of food, water, or air, and there are even spells to restore your physical form and reverse aging. But not having those basic necessities will still make you uncomfortable."
+[talk] Arek: "So I am immortal?"
+[talk] Mari: "No, being a cultivator doesn't make you immortal. You can still be killed, although you will not die of natural causes."
+[talk] Arek: "I just need to be careful to avoid any unfortunate incidents."
+[talk] Mari: "Your physical body has become stronger, so ordinary accidents should not pose a fatal threat. However, the majority of cultivators fall in battle against beasts."
+[talk] Arek: “Are beasts wild animals?”
+[talk] Mari: “Non-human creatures with Ki body are called beasts, they can very powerful and many see human cultivators are their prey.”
+[talk] Arek: “I assume we are stronger than these beasts?"
+[talk] Mari: “Cultivators can certainly defeat beasts, and mortals with technology can destroy the strongest of beasts. Only a small number of people have the potential to awaken and become cultivators. Beasts are innumerable, and cultivators are too few, while technology is expensive and limited. "
+[talk] Arek: "How do people awaken?"
+[talk] Mari: "At puberty, a minority become a Cultivator otherwise you stay mortal for the rest of your life"
+[talk] Arek: “How were the odds that us 3 Siblings us became cultivators?"
+[talk] Mari: "3 out of 9 children awakening is indeed pretty high, our bloodline must be exceptional.
+[talk] Arek: "I have 8 Siblings?”
+[talk] Mari: “We had; those who were still alive recently died in the attack. Its just the 3 of us now”
+[talk] Arek: “I’m sorry”
+[talk] Mari: “Don’t be, the separation from our mortal lives is a crucial step in the cultivation journey and many don't succeed, but we were fortunate enough to have it forced upon us."
+[think] Arek: "Her words are harsh”
+
+
+[talk] Arek: "So what is this cultivation you keep talking about?"
+[talk] Mari: "Becoming immortal and gaining incredible powers doesn't happen overnight. It's a journey of self-development where you cultivate your body, spirit, and magic, gradually becoming more powerful. Each of us will have different traits that we'll develop. Since you opened the door to the Spriti first, you'll have more Chakra, and an advantage with Electricity, Light, and Water elements."
+[talk] Arek: "Elements?"
+[talk] Mari: "Yes, there are 9 elements in total, 3 for each Dantian. For me, I opened the door to Magic, and my preferred elements are Air, Earth, and Shadow."
+[talk] Arek: "Which leaves the Body of the Door."
+[talk] Mari: "Exactly. Makito opened the door of the Body, and his preferred elements are Fire, Metal, and Wood."
+[talk] Arek: "This is getting confusing. How did you create that connection with me? How did you teleport?"
+[think] Arek: “I need to first confirm how these planets and Dantian work”
+[talk] Mari: "Both of those spells were Shadow spells, involving dimensional magic and specifically, the ‘Folding’ Sphere of the ‘Shadow’ Element. You see, each element is divided into 3 spheres."
+[talk] Arek: “This is too much information, explain to me these 2 spells please.”
+[talk] Mari: "The first spell, 'Tag,' establishes a connection between the caster and a designated tag, facilitating the transfer of Chakra and enabling the casting of Spells at that specific location. However, Ki energy cannot cross through this connection. The second spell, ‘Escape,’ grants the caster the ability to instantaneously transport themselves to a nearby random location. This sphere is aptly named 'Folding' as it involves the folding of space to bridge the gap between two distant points”
+[talk] Arek: "How do you cast it?"
+[talk] Mari: "You must first have a core ready that contains the spell, and then you can release it whenever you need to. Cores are found in beasts.”
+[think] Arek: "As I thought, these planets hold spells."
+[talk] Mari: "But being able to hold and cast a core is not easy. You must understand a spell before you can successfully cast and maintain it. A spell is cast with Mana and maintained with Ki, as long as you have available Ki, the tag will remain”
+[think] Arek: “But the tag was cancelled as soon as she teleported”
+[talk] Arek: “Can you only have one spell active?”
+[talk] Mari: “No, you can cast multiple spells, but anytime you teleport, the Ki gets disrupted and any active spell gets cancelled”
+[talk] Arek: "Is it the same for all spells, you just activate a core, whether body, mind, and spirit?"
+[talk] Mari: "Spells are exclusive to the Middle Dantian. For the Upper and Lower Dantians, there are no cores, and you must train to develop Mind Powers and Body Abilities..."
+[talk] Arek: "Give me an example of a Mind Power."
+[talk] Mari: “The mind control power 'Fear' of the Water element lets you get into people's minds to instill fear. To learn it, you must first be affected by it repeatedly until you gain enlightenment and then try to use it on people close to you. As your success rate improves, you master it by practicing on strangers and eventually on beasts. Spirit Powers are the hardest to learn."
+[talk] Arek: "And Body abilities easy to master?”
+[talk] Mari: "They would be very challenging to learn if it weren't for Virtuality, which can teach them to you. Virtuality and Tabot are so cool! When we get to the University, you will..."
+[talk] Priest Reman: "That's enough for now. Let’s go.”
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Priest Reman led them out of the Church through a formidable a corridor adorned with intricate sculptures of various faces with hollow mouths. Despite its beauty, the walls were stained with a range of colors and marred with splotches that appeared to be remnants of bodily matter.
+[talk] Priest Reman: "Unsuccessful invaders attempted to breach the Church and suffered consequences, we have yet to properly dispose of the aftermath.”
+At the end of the corridor was a grand staircase that led to the outside world. As they emerged, Arek gained a clearer understanding of what he had seen when he escaped from the hatch. The outside was covered in immense trees and a lush canopy that provided light. They were standing on top of a partially destroyed pyramid that was missing its top, with scattered debris surrounding it. The pyramid had numerous openings on its sides, some of which served as passages like the one they had come from, while others appeared to hold canons and other contraptions.
+Waiting for them were 8 armored individuals mounted on massive wolves surrounding a large carriage driven by a small man and pulled by a colossal creature resembling an armored dinosaurs with spikes.
+[talk] Priest Reman: "These knight riders will escort us to the Academy."
+[think] Arek: "These wolves are even bigger than the rats and the creature pulling the carriage look just like Ankylosauruses, a dinosaur that went extinct more than 50 million years ago. Could this world be connected to Source Earth?"
+The armor of the wolf riders appeared primitive, made of leather, but their weapons were crudely similar to guns.
+[talk] Arek: "What are they wielding?"
+[talk] Priest Reman: "These are called guns, they are crafted with a secret magic known only to humans, called Technology, which uses lightning as its energy source. It is a gift from God Buddha Christ to resist the beasts."
+[talk] Arek: "Can I learn Technology?"
+[talk] Priest Reman: "You will learn to use technology, but becoming a Technomancer is determined at birth and shrouded in secrecy. Even I don't know much about it.”
+[talk] Arek: "What makes technology so special?"
+The Priest gestures towards a cannon on the side of the pyramid.
+[talk] Priest Reman: "Take a look at this technological device. It has the power to take down even a deity. The strongest beings are forced to send their subordinates to do their bidding, as they themselves cannot pose a threat to us. This is the key to humanity's survival."
+
+
+Arek was curious to test out his powers with a beast, so instead of getting into the carriage, he approached the Ankylosaurus and placed his hand on its side.
+[talk] Arek: "What a magnificent creature."
+Upon making contact, he was able to instantly gain insight into the Ankylosaurus, but his connection didn't stop there. He was also able to see into the mind of the rider seated atop the carriage. The man and the dinosaur had Dantians far larger than those of Arek and Mari, marking them as being in a distinct category.
+[think] Arek: "The man is probably connected to the Ankylosaurus and I get to see inside that man as well, which means my power can use an existing connection to reach another being.”
+The man was manipulating Chakra within the Ankylosaurus and was probably using some psionic power on it. Arek then detected the Ankylosaurus casting a spell on him and recognized it as the Tag spell cast by Mari. He then observed the sun in the dinosaur’s middle Dantian pulsating, and felt a brief intrusion of energy into his own body. He could see the beast’s Ki energy that had entered him but could not identify its purpose as he could do with spells.
+[talk] Small Man: "You've opened the mind door first? You have the necessary traits to become a Beastmaster."
+[talk] Priest Reman: "Why settle for being a Beastmaster when you can become a Priest?“
+[talk] Small Man: "Why limit yourself to slavery when you can have freedom?"
+[talk] Arek: "What is a Beastmaster?”
+[talk] Small Man: “A Beastmaster is one with his beast companions, there eyes are his eyes and their powers are his power”
+[talk] Priest Reman: “Priests keep society together to ensure our survival against Beasts, instead of making friends with them“
+The small man simply snorted at the small man's words.
+[talk] Priest Reman: "Come, let's board the carriage.”

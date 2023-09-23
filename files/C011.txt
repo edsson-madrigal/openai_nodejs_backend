@@ -1,0 +1,87 @@
+Chapter 10 - TABOT
+
+Arek's mind was in turmoil as he made his way back home.
+[Think] Arek: "This Charm spell is cunning, appearing weak, but it's extremely powerful. She was influenced to such a great extent after only three hits. I wonder what she will think when she comes to her senses."
+As he arrived home, Makito and Mari greeted him.
+[Talk] Makito: "How did your first mission go?"
+[Think] Arek: "It was challenging. The 'Charm' spell was more potent than I anticipated."
+[Talk] Mari: "Did you fall in love?"
+[Talk] Arek: "How long does this spell last?"
+[Talk] Makito: "It doesn't last long. Any effects should have worn off by now.”
+[Talk] Mari: "Did you do anything embarrassing?”
+Before Arek could answer, Rin's voice interrupted the conversation.
+[Talk] Rin: "He and his beast did something reprehensible."
+Arek was taken aback by Rin's serious expression, and Mari was concerned about her brother's actions.
+[Talk] Mari: "What happened?"
+Rin remained silent, blushing with embarrassment and anger.
+[Talk] Arek: "I didn't do anything wrong. Sopi teleported her, and she agreed to it. Then she..."
+[Talk] Rin: "Stop talking! My Charm must have backfired, and I was confused. It's all his fault! Why did his beast even attempt to teleport me? I demand retribution."
+Mari suddenly comprehended the situation and began blushing as well.
+[Talk] Mari: "He wasn't aware, but I will ensure justice is served. Arek, please agree."
+Mari touched Arek and cast ‘Esc’ape on him. Confused as to why she would cast the spell, Arek decided to go along with it and allowed the ‘Escape’ to teleport him a short distance away. He appeared to the side in the same room, while Mari kept her focus on Rin. Rin's gaze briefly met Arek's, causing her to blush even more.
+[Talk] Rin: "Do you think that makes us even?" she asked, still seeming angry.
+Observing the exchange between Arek and Rin, Makito suddenly realized what had happened and struggled to contain his laughter.
+[Talk] Mari: "It was an accident.. He lost his memory and doesn't understand what happened."
+Rin briefly glanced at Arek, who was standing there clueless, before quickly turning her head away, still blushing.
+[Talk] Rin: "Get dressed!"
+Arek was confused as to who Rin was addressing, as she was avoiding eye contact with everyone. As he scanned the room, he noticed that his clothes were lying on the floor where he had previously been standing before being teleported. Realizing what had happened, he quickly tried covered himself with his hands.
+Makito, who had been trying to suppress his laughter, finally let it out and handed Arek his clothes. Arek quickly got dressed, feeling embarrassed and ashamed of the situation.
+[Talk] Mari: "You can see that he didn't realize what was happening."
+[Talk] Rin: "Who are you?"
+[Talk] Mari: "I am his sister, Mari, and this is our brother, Makito. Let's just forget about this whole thing."
+[Talk] Rin: "I can't do that. He needs to take responsibility for his actions."
+[Talk] Makito: "A man must take responsibility."
+
+All eyes were on Rin, who appeared conflicted as she struggled to make a decision. After a long pause, Rin raised her head and looked at Mari with a resolute expression.
+[Talk] Rin: “Mari, please call me sister-in-law from now on."
+[Talk] Arek: “What?"
+[Talk] Rin: "He took advantage of me and refuses to take responsibility for his actions. What kind of coward is he?"
+[Talk] Makito: "What's done is done, brother. She's willing to accept the consequences of her actions, how can you shirk your responsibility?"
+[Talk] Delphine: "Sister-in-law seems like a remarkable person. She's the one making all the sacrifices here."
+[Think] Arek: "I know I made a mistake by allowing Sopi to teleport Rin, but marrying her is too extreme."
+[Talk] Arek: "I apologize and take responsibility for my actions, but aren't we too young to get married?"
+[Talk] Rin: "Yes, we are. How could I marry an Awaken? We will only marry when you become a Devil. Until then, you will be my slave."
+[Talk] Delphine: "Don't you dare flirt with other girls!"
+[Talk] Makito: "If he does, I'll beat him.”
+[Talk] Rin: “And I’ll kill her.”
+[Think] Arek: "Why is everyone against me?"
+Without waiting for a response from Arek, Rin turned and left the room without saying another word. Meanwhile, Mari and Makito both had broad smiles on their faces.
+[Talk] Mari: "I like sister-in-law."
+[Talk] Makito: "She's so beautiful and strong.”
+[Talk] Arek: “Did she say I am her slave?”
+[Talk] Makito: “You should be thankful to have such a great master”
+[Talk] Mari: “Makito, can you explain to him what happenned”
+[Talk] Makito: "Only cultivators and beasts have the ability to teleport or phase, which is why your clothes, as well as Rin's, were left behind."
+[Talk] Arek: "But you were able to teleport without losing your clothes”, glancing at Mari.
+[Talk] Mari: "My clothing is made from beast material and is bound to me, so I don't have this issue when I use Blink."
+[Talk] Makito: "To use teleportation, all your equipment must be made from beast parts and bound to you. Once equipment is bound to a cultivator, it can only be undone by the cultivator's death or the destruction of the equipment."
+[Talk] Arek: "How can I bind my clothes?"
+[Talk] Makito: "Your clothes must be made from beast material. I'll show you how to bind your equipment once you have enough credits to buy some. Until then, don’t accept to be teleported”
+[Talk] Arek: "I just earned some credits with Rin so I should be able to buy some “
+
+
+[Talk] Makito: "No, you'll be using those credits to bet on a Tabot game at the colosseum."
+[Talk] Arek: "Betting on a game? That sounds risky."
+[Talk] Makito: "We're certain to win! Trust me."
+[Talk] Mari: "Makito, remember that Arek lost his memory, so he might not understand what you're talking about."
+Arek nodded
+[Talk] Makito: "Tabot is a sport where teams compete against each other. The three of us will form a team, bet on ourselves, and win big by defeating our opponents."
+[Talk] Mari: "It may sound crazy, but Makito is considered one of the best players, so we will surely win if we follow his lead."
+[Talk] Makito: "It's getting harder to make money because nobody wants to bet against me. But if I team up with a new crippled player and some beasts, I'm sure many will be willing to bet against us.”
+Arek didn’t understand much but he decided to trust his brother. Makito, well-acquainted with the School of Entertainment, led them to private rooms containing a metal sarcophagi. The world went black as Arek closed the lid, and shortly after, a message appeared in his mind:
+[Message] Game: "Makito has invited you to join his party.”
+After accepting, Arek found himself in an arena with Makito and Mari. Mari wore the same outfit, but Makito was dressed like a Roman gladiator, complete with a helmet. 
+[Think] Arek: “Did I teleport?”
+Areq quickly confirmed his clothing was still on, and noticed a floating, translucent panel with various options hovering in front of him.
+[Talk] Arek: "Where are we?"
+[Talk] Mari: "This is a simulated world; it might feel like your body, but it isn't. Here, you can cast spells you don't know and use powers you don't have. Whatever happens won't affect your body because this isn't your real body."
+[Talk] Arek: "A virtual world? It feels so real. I can cast spells here?"
+[Dialogue] Makito: “You can use spells you haven't mastered yet, but you are still limited by your potential. Since you are crippled, you won't be able to cast spells and use magic here either.”
+[Talk] Arek: “Sopi was scanned with me, and I have his shield!” Arek showed his Super to Makito.
+[Talk] Makito: “You'll be controlling your familiar like a puppet, as it has no mind of its own here.”
+[Talk] Arek: “How do I control it?”
+[Talk] Makito: “Listen…”
+Arek and Mari followed Makito's explanations and instructions, paying for their admissions and equipment. Since they needed five players, Mari purchased a familiar called a Manticore, a majestic flying creature with black wings, the body of a lion, a humanoid head, and the tail of a scorpion. They also selected spells, abilities, and powers for themselves and their familiars.
+Since these purchases weren't real and wouldn't follow them back to the real world, they were inexpensive compared to their real-world value. It was the perfect place to try before deciding. They bet any remaining credits on themselves.
+[Talk] Arek: “With the two familiars, we're now a five-player team. Let the game begin!”
+

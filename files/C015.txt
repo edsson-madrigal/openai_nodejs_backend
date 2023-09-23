@@ -1,0 +1,81 @@
+Chapter 14 - INQUISITOR
+
+An imposing figure entered the room, an old man with wrinkled skin dressed in a black cloak, his eyes small and shrewd. He was followed by three soldiers in heavy black technological suits, armed with menacing weapons. They stood by the entrance, their presence chilling and stoic.
+As Arek attempted to focus on the leading man, hoping his Assistant would provide information, a stern message appeared instead.
+[display] Assistant: “Inquisitor – Head of the enforcement division and has absolute authority. Be very respectful and obey immediately any order given if you value your life.”
+The Inquisitor's appearance was one of power rather than charm. It was obvious that he was a high-level immortal who could have chosen any appearance, yet he opted for the visage of a displeasing old man. He clearly had no interest in making friends or being likable.
+A loud thud resonated as Makito dropped to his knees, eyes fixed on the floor. Understanding the unspoken command, Arek immediately followed suit, his heart pounding, and Mari did the same.
+[talk] Inquisitor: “You are under arrest.”
+A device emitting an electric shock was used to remove any magical tags they might have had. Their wrists and ankles were then bound in cuffs, and disruptors were fitted to prevent them from using their middle dantian and casting spells.
+“We are innocent, I have proof, I request a confession,” Mari protested, desperation in her voice.
+[think] Arek: “Eve is about to take control once again.”
+The Inquisitor's reply was chilling in its indifference: “Guilty or innocent doesn't matter, you have offended the wrong person. Take them away.”
+Arek felt a rising sense of panic. The guards' armor prevented him from connecting with them, and without psionics being used on Mari, Eve was rendered powerless.
+[think] Arek: “I am still linked to Sopi, but it can't teleport me to it with the disrupters, and even if I could, I won't abandon Mari and Makito.”
+
+The weight of despair pressed heavily on the room as the Inquisitor tagged them. Their mouths were then covered with gags, ensuring their silence.As despair settled over the room as the reality of their situation sank in, the inquisitor approached them and tagged each one of them, they were then gagged and lead outside. 
+Yet, in the Inquisitor's caution, he had unwittingly turned the tide. By tagging Arek, he inadvertently granted Arek the ability to tap into his energies and trigger his spells. More so, Arek could do the same with anyone interconnected through the Inquisitor.
+[think] Arek: “Each guard is tagged by him, and the Inquisitor himself bears a tag from another. The guards are Devils, but the Inquisitor and his mysterious superior are Sages.”
+His connection to Mari, Makito, the guards, and the unknown individual through the Inquisitor's web provided Arek with a glimmer of hope. While immediate escape seemed feasible, Arek hesitated, considering the broader implications. For now, he chose to play the part of the unsuspecting prisoner, gathering as much intel as possible to inform their ultimate escape plan.
+They were guided swiftly towards one of the city's towering stone pyramids. As they made their passage through its entrance, the massive doors thundered shut just before the Inquisitor could step in.  Simultaneously, Arek's link to the Inquisitor was abruptly cut off and an unsettling void began to form within him, with the energies of Ki and Chakra dissipated; it felt as though he was once again a mortal..
+[talk] Guard: “There's no Mana here. You're mere mortals now.
+Mari's face was pale, her eyes wide with terror. Makito, on the other hand, looked around, his surprise evident.
+[think] Arek: “Stripped of our powers, reduced to mortals. No special abilities, no contact with Eve through psionics...”
+Any prior confidence evaporated when they were ushered into a dimly lit chamber. Chains clinked eerily in the quiet, and there, to their shock, was Rin – her spirit seemingly broken, chains binding her to the cold stone wall.
+After securing them alongside Rin in this grim setting, echoing footsteps announced a new entrant: Sorrier. His silhouette, framed by the doorway, oozed menace.
+[talk] Voice: “Out, all of you. I wish to speak with them alone.”
+
+As the guards retreated, Arek's eyes met those of Siroser, who gazed back with a malevolent smirk, reveling in the group's perceived helplessness.
+[talk] Siroser: "Go on, scream. It will only please me more, knowing no one will come to your rescue."
+[talk] Makito: “What is it that you want?”
+Siroser, clearly obsessed with Arek, disregarded Makito's question.
+[talk] Siroser: "Here, stripped of Mana, you're mere mortals. Void of Ki, Spirit, or Dantian. Just frail shells waiting to experience the depths of agony. I'll make you witness the slow demise of your companions. Your brother will follow, and you'll be the last to succumb."
+Makito: “So, are you mortal here too?"
+Ignoring him once more, Siroser shifted his attention to Rin.
+[talk] Siroser: “Your parents kneel to my princely father. While your fate is sealed, theirs will be determined by how well you entertain me. Had you not betrayed me, none of this would have happened.”
+Rin, however, was far gone, mentally fractured from the trauma, her gaze hollow and vacant.
+[think] Alexei: “All this power, yet here I stand, unable to shield even my closest friends."
+[talk] Makito: “A worm like you could never harm someone like me.”
+For the first time, Siroser directed his attention towards Makito, his eyes burning with rage. With a quick motion, he aimed a punch at Makito, only to retract his hand in pain. Glaring at his reddened knuckles, his frustration was palpable. Grasping at a nearby bat, he grinned at Makito:
+[talk] Siroser: "We'll see about that. I hope you can endure, it would be a shame for you to die too quickly."
+He channeled all his anger into a forceful swing, directing it at Makito's chest. But the anticipated crunch of bones never came. Instead, the bat's collision felt as if he had tried to smash a centuries-old tree trunk. Still reeling from the shock, Siroser watched, wide-eyed, as Makito nonchalantly broke free from his bindings, wearing a sly grin.
+[talk] Makito: “Seems you're the one who's mortal here.”
+The color drained from Siroser's face, his initial bravado replaced with raw fear.
+[talk] Siroser: "This... this isn't possible..."
+Before another word could escape his lips, Makito's fist connected with Siroser's face, his skull exploding leaving nothing but a headless body slumped on the cold floor.
+[talk] Makito, looking aghast: “I didn't mean to use that much Ki!”
+[talk] Mari, in astonishment: “You retained your Ki?”
+[talk] Makito: “It seems so. The ambient Mana is gone, but my Ki and Chakra remain intact. When they shackled us, their confidence made me suspect they genuinely believed we were all rendered powerless."
+With an effortless motion, Makito tore away the chains binding everyone. His power seemed undiminished within this place.
+[this] Arek: “This must be the divine power Eve mentioned.”
+Eve had previously revealed that Makito and Mari, being twins, shared the gifts from her sacrifice: Mari housed Eve's consciousness, while Makito was graced with a Divine body.
+[talk] Rin, frantic: “He's dead! You’ve doomed us all! And my parents...”
+[talk] Arek, gritting his teeth: “Would you rather have been a pawn in his twisted game?”
+[talk] Rin: “Whatever it took to ensure my parents' safety!”
+[talk] Arek: “Would their hearts not break knowing the hell you went through under his watch?”
+
+The door burst open, revealing four guards outfitted in state-of-the-art suits, each weaponized with cutting-edge technology specifically crafted for mortals to combat fearsome beasts. Though momentarily taken aback by the unexpected entrance, Makito's combat instincts, honed under Tabot's tutelage, kicked in swiftly. The guards, believing they faced a mortal opponent, were caught off guard by Makito's retained Ki, enabling him to unleash the strength and agility of an immortal. The skirmish was intense yet brief, culminating in the guards sprawled across the floor lifeless, their vaunted armors fractured and broken. As for Makito, any injuries he sustained healed almost instantly, leaving no trace they had ever been there.
+[talk] Makito: "Fighting here, in the real world, feels different. My Ki doesn’t run out”
+Makito took the lead as they exited the room, returning to the corridor they'd entered from. Previously overwhelmed by the sudden feeling of mortality, Arek hadn’t registered the familiarity of this adorned passage. It was eerily reminiscent of the pyramid in his village — he remembered the holes peppered across the walls, scattered remains, and gloating from village priest about their defenses. Didn’t he also recall a vivid memory of fire shooting from a similar wall, incinerating Bay and a giant rat back in his school?
+Just as Makito took a step forward, Arek reached out, firmly placing a hand on his shoulder to halt him. 
+[talk] Arek: “Proceed with caution, these walls conceal weapons.”
+When Arek touched him, he could sense Makito's powerful energies - both Ki and Chakra. He even managed to channel some into himself, restoring his own powers. His connection to Sopi was even restored, if Mari and Rin could benefit from Makito’s energy, he could teleport everyone to Sopi safely.
+[talk] Makito: “Of course its a trap, but what choice do we have?”
+Makito pulled away from Arek and quickly advanced down the corridor. As their physical connection broke, the influx of Makito's energy within Arek vanished, plunging him back to his mortal state.
+[talk] Arek: “Stop!”
+Arek paused, torn between rushing after Makito and the knowledge of the corridor's lurking dangers. While Makito's shields and self-healing abilities might offer him some protection against the defensive mechanisms, Arek knew they would be immediately fatal to him.
+Yet, unexpectedly, Makito reached the exit without any hindrance and swung the door open.
+[talk] Makito: “Come on, guys; it’s clear!”
+Mari took the lead, her steps firm and resolute. Arek, gently guiding a haggard Rin by the hand, followed closely. Before long, they all stood beside Makito under the open sky, just outside the pyramid. As the ambient mana seeped into them, they felt their Ki bodies reawaken, restoring their immortal selves.
+[talk] Mari: "We're finally out."
+[talk] Makito: "But it's eerily quiet, and the streets are empty. Something's not right."
+Suddenly, an overwhelming gravitational force, much more intense than that of the Minotaur's, pressed them to the ground. The Inquisitor materialized before them, accompanied by a fierce-looking barbarian.
+[talk] Barbarian: “What have you done to my son!”
+Rin's already haggard demeanor shifted as she burst into manic laughter.
+[talk] Rin: “He’s gone, his head popped like a balloon”
+Amid the crushing gravity, the Barbarian moved with a surprising ease, his fury evident in his eyes, as he approached Rin menacingly who was still holding hand with Arek. Makito, fighting against the overwhelming pressure to remain upright, positioned himself in the path of the advancing Barbarian, serving as a barrier to protect Rin.
+[talk] Makito: "I killed him."
+The Barbarian came to a halt, appearing somewhat uncertain about facing Makito directly, his gaze fixed intently on him. Just then, a red-haired girl teleported beside him and the Barbarian relaxed.
+[talk] Barbarian: "Your timing is perfect. Take care of him."
+The red-haired girl stepped forward, clearly heeding the Barbarian's order. Drawing two sabers that hung from her back, her intent was unmistakable. Arek's focus shifted to her, and a trace of disbelief lit his face.
+[talk] Arek: “Bay?”

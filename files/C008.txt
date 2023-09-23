@@ -1,0 +1,67 @@
+CHAPTER 7 - Beastmaster
+
+The Beastmaster hands Arek a fur ball contained in a harness.
+[talk] BeastMaster: “Arek, my name is Bamater, I am a BeastMaster and this is a beast called a Supar. I would like you to bond with it.”
+[talk] Alek: “Beastmaster Bamater, I lost my memory and I don’t understand what you mean by bonding.”
+[talk] BeastMaster Balater: “Bonding with a beast creates a permanent connection between you and your familiar, and it can share its shield with you.”
+[talk] Mari: “Bonding with beasts is a serious decision and usually done when better beasts are available. Bonding with this furball doesn't seem wise and since it is much smaller than Arek, it will have to lose some of its shield when sharing”
+[talk] BeastMaster Balater: “A Supar is an exceptional beast with one of the strongest and most versatile shields, fewer will still mean better. I would bond with it if I could. Unfortunately, it rejected me. However, every time a Supar crosses into a new realm, it spawns an offspring that is likely to accept a bond with someone who is familiar with its parent. I ask of you, as a repayment, to bring me its next offspring.”
+[talk] Arek: “How do you know it won't die in my hands, or that I won't die? Why do you think I'm a good choice for this?”
+[talk] BeastMaster Balater: “Since you are a cripple, it is likely that they will keep you alive in the background and not place you in dangerous situations You are a safer candidate than others who are much stronger. As for the Supar dying, it is very likely to outlive you.”
+[talk] Alek: “What makes a Supar so valuable?”
+[talk] BeastMaster Balater: “It excels in reconnaissance missions through its abilities to teleport and phase. As a Supar evolves, it gains the ability to teleport to locations on the other side of the universe it has never visited before. Its exceptional survival skills enable it to remain unharmed in dangerous situations and teleport out after analyzing the area. It is considered the ultimate scout by both humans and sentient beasts.”
+[talk] Arek: “How does it fight?”
+[talk] BeastMaster Balater: “It doesn’t fight, but its specialty is survival and escape. If you train it well, you could benefit from its survival spells as well.”
+[talk] Arek: “What can it do right now?”
+[talk] BeastMaster Balater: “It knows the Shadow Spells 'Tag', 'Teleport', and 'Ghost', the Earth spell 'Shoot’, the Lightning Powers 'Clear Tags’ and 'Stun', and the Liquid ability ‘Dantian Profiling’
+[talk] Arek: “I never heard about most of these”
+[talk] Mari: “These are all common spells. 'Ghost' allows it to phase its physical body into another dimension while staying in place as a ghost. If in danger, even as a ghost, it can 'Teleport' to any target it is connected to. To create a connection, it can 'Tag' a target from a distance using Shoot. 'Clear Tags' will remove any tags from it, so it cannot be pursued while ‘Stun’ will make a target black out for an instant. Finally, ‘Dantian Profiling’ will identify the target’s Dantian’s relative size. 
+[talk] BeastMaster Balater: “You are correct. Shoot is particularly useful as it shoots an extremely thin strand of hair that cannot cause harm, but can penetrate shields and tag a target.”
+[talk] Arek: “So it can’t fight?”
+[talk] BeastMaster Balater: “The Supar's primary role is to survive and escape. Its abilities are designed to help it avoid danger, gather information, and escape to safety. It's not a traditional combat beast, but it can still be a valuable asset in a wide range of situations. And as it evolves, it will only become more powerful and versatile."
+[think] Arek: "So, I'll have access to all these abilities once I bond with the Supar. They sound incredibly useful, but it's unfortunate that there aren't any offensive spells."
+[talk] Arek: “I agree to bond with it”
+[talk] BeastMaster Balater: "Good. Just remember to treat it well and train it properly. The bond between you and your familiar is a lifelong commitment."
+
+[talk] Arek: “How many beasts can I bond with?”
+[talk] BeastMaster Balater: “I, myself, can bond with one beast every other realm, and I already have two bonds in use. I will wait for the offspring of the Supar for my third bond. As for you, since you chose your Upper Dantian as your prime Dantian, you can bond with a familiar once per realm.”
+As soon as Arek touched the Supar, he witnessed some charka transferring from the storm in his Upper Dantian to his hand. Then, everything went blank and he regained consciousness.
+[talk] Arek: “What happened? How long was I out?”
+[talk] Mari: “It was just a moment. Now you know what ‘Stun’ does.”
+[talk] Arek: “How do I bond with it?”
+[talk] BeastMaster Balater: “You have to cut your hand and hold the Supar tightly until your blood connects. You may have to repeat this process several times until the Supar's ‘Stun’ fails, and you can hold on to it.”
+[talk] Arek: “I'll try again. I need to slice my hand…”
+Bamater handed a decorated knife to Arek, who sliced his hand and grabbed the Supar. This time, as soon as the Supar touched Arek and sent its Chakra towards him, Arek was able to redirect it back to the Supar, with the result of stunning it with its own attack.
+[talk] BeastMaster Balater: “Not only did it fail, it was a catastrophic failure! You are a lucky kid.”
+
+
+
+
+
+
+After the Supar had recovered, a shining violet quasar appeared in the center of the storm in its Upper Dantian, causing Arek to feel an urge to connect with it. Upon giving in to the urge, a similar quasar appeared in Arek's Upper Dantian and both of them shrank to become small purple stars in their respective storms. The Supar then rubbed against Arek's hand.
+[talk] BeastMaster Balater: "You made it look easy. As long as you're touching the Supar, its shields will protect you."
+Arek noticed a protective energy surrounding him after bonding with the Supar. He had previously noticed similar energies with varying thickness around others he was connected to, but he hadn't paid much attention to them until now.
+[talk] Arek: "It must like me."
+[talk] BeastMaster Balater: "On the contrary, it's most likely afraid of you. Supars only bind with a master for survival, it probably believed you were responsible for its stun failing. Now it's time to give it a name."
+[talk] Mari: "Let's call it Sopi."
+[talk] BeastMaster Balater: "You must name the Supar yourself."
+[talk] Arek: "I name it Sopi."
+[talk] Arek: "Can I remove its harness now that it's my familiar?"
+[talk] BeastMaster Balater: "The harness prevents the Supar from using its mana and casting spells from its middle Dantian. If you remove it, the Supar will teleport away. Although it will eventually come back to you, especially if it's in danger, but its appearance will trigger the Academy's defenses. Don't remove the harness until it's been registered with the Academy, so it can be identified as your familiar when it teleports back to you. After that, you can set it free and communicate with it telepathically. Over time, with patience and training, you may be able to tame it and have it stay by your side and even act on your behalf."
+[talk] Arek: "Thank you so much, BeastMaster Balater. How can I repay you?"
+[talk] BeastMaster Balater: "If you wish to repay me, hold positive thoughts about me and don't die until the Supar becomes a Sage."
+
+
+
+***
+[talk] Pope: "I have received word that a carriage transporting academy students was attacked by a Minotaur Lord. It was apparently summoned to the roots of a Saint Tree, causing its tagged connection to be severed shortly after. The Minotaur is now dead, and Prince Tameran has been recalled."
+[talk] Buddha: "Are you confident in this explanation?"
+[talk] Pope: "It seems to be the most logical explanation based on the Priest's testimony."
+[talk] Buddha: "But there are no other Saint Trees or similar beings in our lands. It's more plausible that the Minotaur was summoned by an ally."
+[talk] Pope: "To an underground location?"
+[talk] Buddha: "It's also possible that the Minotaur buried itself underground"
+[talk] Pope: "Why would it do that when it was winning?"
+[talk] Buddha: "What did it have to gain by killing those academy students and revealing itself? Perhaps it wanted us to think it had left or was dead. We must resume the search and recall Prince Tameran."
+[talk] Pope: "Your insight is invaluable, God Buddha Christ."
+[talk] Buddha: "I just hope your gullibility is not limitless."

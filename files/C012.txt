@@ -1,0 +1,101 @@
+Chapter 11 - FOES
+
+Tabot was a team sport with five players: two tanks, two casters, and one leader. The game would conclude when a team's leader was vanquished. All had mana shields and Ki bodies, but the leader could only utilize chakra, the casters could only harness mana, and the tanks could only employ Ki.
+Makito and the Manticore were tanks; Mari and Sopi were casters, while Arek was the leader for "The Terminators." If Arek were defeated, they would lose.
+Tanks, would quickly respawn after falling in battle, making them bold and autonomous. Casters would not return to the game if defeated, prompting them to exercise caution. The leader maintained a network between teammates, allowing them to target themselves and their tags. The leader could also communicate directly with his teammates while the others could only communicate via Psions through the network.
+On the other side of the arena, five figures appeared, representing the "Devils Don't Cry" team. These players were extravagantly dressed, each in a different color and adorned with fancy masks, showcasing their wealth through vanity equipment. The red player appeared to be female, as evidenced by two prominent curves beneath her armor.
+In this game, familiars had no will and functioned as puppets requiring the attention of the player controlling them. Choosing a familiar, let alone two, was unusual.
+[Talk] White Player: "Look at their ratings. Only one stands out, and another's never played at all."
+Each player possessed a rating, but none came close to Makito's skill level. Only the Gold player was rated higher than Mari, suggesting they were relatively inexperienced themselves.
+[Talk] Red Player: "Two familiars? Is this meant to be a challenge or a joke?"
+[Talk] Blue Player: "Nothing but bumpkins over there. This won't take long."
+[Talk] Gold Player: “Enough chatter. Underestimating them could be our downfall.”
+The Gold player seemed to be their leader in both the game and reality.The Gold player's tone and the manner in which others addressed him indicated that he was their leader in both the game and reality.
+[Talk] Gold Player: “But let's enjoy this. Make it last.”
+[Talk] Makito: "Are you ready?"
+
+[talk] Gold Player: "Surrender now. It'll be less humiliating."
+[talk] Blue Player: "Look at their equipment. Pathetic. Must be all they can afford."
+[talk] Arek: "Feeling confident? How about a wager?"
+[talk] Makito: "Careful, bets are binding in this place."
+[talk] Arek: "I'm the leader, Makito, and I trust you."
+[talk] Gold Player: "A bet? How much can you even wager?"
+[talk] Arek: "We have no credits. How about something else?"
+[talk] Red Player, pointing at Arek: "I want him."
+[talk] Gold Player: "If we win, your leader will call us 'master' and obey our commands."
+[talk] Arek: "If we win?"
+[talk] Gold Player: "A handsome reward, of course."
+[talk] Arek, smirking: "No. If we win, your leader will bark like a dog and lick my boots."
+[talk] Gold Player: "Absurd."
+[talk] Arek: "I'm your slave if I lose. If you lose, you bark and lick my boots. Fair deal. Or should you be 'Crying Chickens' instead of 'Crying Devils'?"
+[talk] Blue Player: "It's 'Devils Don't Cry.'"
+[talk] Arek, grinning: "Sorry, I meant 'Chickens Don't Cry.’"
+[talk] Gold Player, fuming: "Bet accepted. You'll regret this."
+[talk] Gold Player, rallying: "Let's show these newbies not to waste our time."
+Arek pocketed Sopi and hopped onto the Manticore with Mari, soaring into the sky, while Makito charged the Golden player.
+[team] Gold Player: "One charging alone, four in the sky? Easier than I thought. Blue and White, handle the sky. Red and Green, stop that lone attacker."
+The Red and Blue players fired at Makito and the Manticore, shields flickering under the assault. Gold, White, and Green stood ready, armor glinting and weapons at hand.
+The Manticore was flying towards the Gold player from above, while Makito continued to run toward the White player.
+[talk] Gold Leader: "I won't move from here. Come and get me."
+[talk] Makito: "Out of my way, White guy.”
+White hurled knives at the Manticore, ignoring Makito's approach. The first knife missed its mark, sailing past the Manticore, and Blue teleported to the second, lance at the ready.
+[think] Blue Player: "A familiar can't react in time."
+The Manticore impaled itself on Blue's lance. Meanwhile, Green had teleported to the first errant knife, slicing through empty air as Mari and Arek vanished from sight.
+Without missing a beat, White flung more knives above Makito and cast a gravity field, slowing his progress. Red then teleported to a knive, descending with a giant hammer.
+The hammer's impact resonated through Makito's shield, cracking his armor and sending him sprawling. Struggling to rise, Makito was exposed, and Blue wasted no time teleporting in to pierce his weakened shields.
+As if part of a well-rehearsed dance, Green appeared, teleporting to a third knife. With one precise, unerring stroke, Green's blade found its mark, decapitating Makito through his faltering shield and damaged armor.
+It was over in an instant for Makito. The opposing team had orchestrated their attack flawlessly, each teleport and strike timed to perfection, leaving no chance for defense or recovery.
+
+[talk] Green Player: "That big guy went down easier than I expected. I could have taken him on my own."
+[talk] Blue Player: "He must have padded his score by playing with better teammates."
+[talk] Gold Player: "How dull. We're back to square one."
+Arek and Mari had teleported back to their starting point, their opponents regrouping as well. Makito and the Manticore would resurrect there soon.
+[talk] Gold Leader: "I won't take advantage of both your tanks being out. Let's see your next move when you're ready.”
+Upon resurrection, Makito, still clad in damaged armor, charged toward the opponents with Arek and Mari again taking to the skies on the Manticore.
+[team] Gold Player: “I hope they change their tactics. That last defeat was disappointing.”
+The battlefield shifted subtly as Red teleported instead of Blue and her hammer struck the Manticore who fell to the ground. This time, Arek and Mari vanished before the Manticore was struck, but Green was conspicuously absent. Simultaneously, Makito took to the air, leaping high towards White instead of executing a straight charge.
+[team] Gold Player: "They're finished."
+White responded quickly, conjuring a gravity field that sent Makito plummeting towards Blue, who had already teleported into position with his lance at the ready. Green, meanwhile, had positioned himself at the spawn point but found it empty; Mari and Arek had teleported  using “Escape” and were floating not far from Red.
+[team] Gold Player: "Their end is near; eliminate their leader."
+Red's eyes gleamed as she readied her hammer, and White targeted Arek and Mari with knives. The situation looked desperate for Arek's team; they couldn't teleport again so quickly, leaving them vulnerable. But neither of them looked bothered as they gazed down at Makito without worry in their eyes.
+In the nick of time, as Makito hurtled towards Blue's waiting lance, he vanished, only to reappear above Gold Leader, cutting him in half with his axe. The unexpected move caught everyone off guard; Gold Leader's shields offered no resistance, and the other players vanished, dumbfounded by the sudden turn of events.
+Makito's plan had unfolded perfectly. During the initial assault, Sopi had phased itself, rendering it nearly invisible. Alex had silently hurled it towards Gold Leader, going unnoticed by all. Concurrently, Makito had Sopi cast a gravity spell, positioning itself stealthily above the unsuspecting leader.
+The plan's execution was a masterpiece of timing and precision. Makito's leap into the gravity field built momentum for his subsequent plunge. At the crucial moment, Mari teleported him to Sopi's exact location above Gold Leader, where he penetrated the shields and struck a fatal blow. The Gold Leader's reaction came too late, and the tide of battle shifted in an instant, resulting in a decisive victory for Arek's team.
+
+Arek opened the lid, leaving virtuality and returning to the real world. He left the room to meet Makito and Delphine.
+[talk] Mari: “I told you we would win; Makito is the best.”
+[talk] Arek: “It was incredible how you were able to kill him in one strike.”
+[talk] Mari: “Makito is a martial artist; he imbues his weapon with Ki and ignores his opponents' shields, allowing him to kill immortals in a single attack.”
+[talk] Makito: “It wouldn’t have been possible if I hadn’t caught him off guard.”
+[talk] Arek: “Where are they? They need to keep up their end of the bargain.”
+[talk] Makito: “Real names are not divulged, and they were wearing masks, so it will be hard unless they come forward by themselves.”
+[talk] Arek: “Let's look at the group leaving this place.”
+[talk] Makito: “Centers like this one are spread throughout the empire; some even connect from their houses. The odds of them being here are pretty low.”
+[talk] Arek: “But not null; let's wait a little to make sure.”
+As they were discussing the match and its rewards, Rin walked up to them.
+[talk] Rin: “Congratulations on your victory. Now hand me your winnings.”
+[talk] Arek: “You watched the game?”
+[talk] Makito: “I told her we were playing.”
+[talk] Rin: “I watched my future husband in action. I even bet against your game and lost. Now compensate me.”
+[talk] Arek: “You bet against me? And you want my winnings?”
+[talk] Rin: “Of course, what is yours is mine.”
+[talk] Mari: “How's he supposed to pay you? Credit transfers and gifts are forbidden between students.”
+[talk] Rin: “You'll just have to do one thing for me.”
+[talk] Makito: “But he's already your slave.”
+[talk] Rin: “That's right. Then let's go and watch Siroser grovel.”
+[talk] Mari: “You know who he is?”
+[talk] Rin: “Even with a mask, it's hard not to recognize him. I'll take you to him. Make him lick your boots.”
+[talk] Makito: “My brother won't back down.”
+Rin had a large smile on her face as she brought them to a large dwelling on the branch of the tree. Even Makito had never been up the tree, but all the guards on the way let them through at Rin's request. She seemed to be an important person.
+A servant opened the door, and Rin ordered him to bring them to Siroser as if he was her own servant. He didn't seem to mind and was acting very respectful as he led the way to a group of five people in a large, circular, empty room.
+The five people were dressed exactly like the Devils don't Cry team in the virtual world, except that they had their masks off.
+[talk] Siroser: “Rin, please introduce us to your distinguished guests.”
+As Arek and Mari were not wearing masks, there was no doubt that these five recognized them from the game, yet Siroser's smile seemed genuine, and he was acting very respectful towards them. The other four seemed genuinely happy to see them as well.
+[think] Arek: “Something is wrong. They look like they were expecting us to come. Could this be a trap?”
+Arek activated a shoot with Sopi to tag the leader and inspect him. It didn't surprise him that the leader was connected to his four lackeys, but it surprised him that Rin was also connected.
+[think] Arek: “So it is a trap, and Rin is in on it.”
+[talk] Makito: “My name is Makito; this is Mari and Arek. We're the team that just beat you and we came to collect on our bet”
+Some showed slight reactions to Makito’s provocation, but Siroser continued as if they had politely introduced themselves.
+[talk] Siroser: “It's my pleasure to meet the champions in person. It was a clever plan, perfectly executed. You deserve your victory.”
+[talk] Mari: “We were lucky to win against a team as great as yours.”
+[think] Arek: “Mari is being diplomatic, but why was Makito provocative?”

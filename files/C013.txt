@@ -1,0 +1,89 @@
+CHAPTER 12 - WIFE
+
+[talk] Makito: “We came to see you bark like a dog and lick the boots of our leader here”
+Through Sopi, Arek felt a sharp killing intent from Siroser's team, a sensation he recognized instinctively. Siroser hesitated but maintained his composure.
+[talk] Siroser: “The victors make the rules. But my compliance stays between us. Leave your assistants outside, and I will honor my word.”
+[talk] Makito: “No problem.” Makito tossed his assistant out the door.
+[talk] Mari: “How can we trust him?”
+[talk] Rin: “I want a show. I promise Siroser will keep his word.”
+[think] Arek: “They're planning something. But without assistants, I can use my powers.”
+[talk] Mari: “Why trust her?”
+[talk] Arek: “Because she has promised herself to me. She wouldn’t betray her future husband.”
+Rin blushed, and Siroser's shock was palpable.
+[talk] Rin: “Don’t listen to them.”
+[talk] Siroser: “The spoils to the victor.” He grinned.
+Arek threw his assistant out
+[talk] Arek: “You don’t need to trust her, you just need to trust your brothers”
+Mari threw her Assistant out
+The door slammed shut
+
+[talk] Siroser: “Very good, let’s hear you slander my woman again”
+[talk] Arek: “How can you call her your woman when she has proudly displayed her body for my eyes and you have yet to see the covered parts”
+[talk] Siroser: “Liar!”
+[talk] Mari: “Do you have a psionic? I will show them the truth”
+[think] Arek: “So Eve can take control one of them”
+Siroser glanced at Rin who was blushing and looking down instead of defending herself.
+[talk] Siroser: “Blue, get the truth”
+Blue walked over to Mari and put his hands on her. After a moment of silence he turned to Sirosar.
+[talk] Blue: “It is true, Rin exposed herself and proposed to him on her own free will”
+Siroser’s gaze shifted to Rin, who looked down, blushing.
+[talk] Siroser: “You denied me and gave yourself to him?”
+[talk] Rin: “I can explain”
+Arek moved confidently to Rin, grasping her hand with a reassuring grip.
+[talk] Arek: “You don't need to explain your love for me.”
+[talk] Siroser: “Let her go!” His voice was sharp, filled with rage.
+Rin's eyes flashed as she cast a stun spell towards Arek, who swiftly redirected it to Siroser. It was Siroser who was connected to Rin, and he managed to defend against the spell, but the force of it sent a shock through him. It felt as if Rin had targeted him herself.
+[talk] Siroser: “You dare! By the time we're finished, everyone here will have seen you bare. Blue, handle the girl; I'll take care of Rin and that pest. The rest, get the big one.”
+[talk] Rin: “How can you?” Her voice trembled with disbelief.
+[talk] Arek: “Wait!” He raised a hand, his voice commanding.
+[talk] Siroser: “It's too late to beg for your life, traitor.”
+[talk] Arek: “I just think this is a big misunderstanding. Let's talk, like reasonable people.”
+[talk] Siroser: “I will hear your last words.” His tone was icy, his eyes hard.
+
+[talk] Arek: “No need to fight over Rin. You can have her. We just came to see you bark like a dog and lick my boots.”
+[talk] Siroser: “Aaaaaah!”
+Enraged, Siroser's grip tightened around an imposing two-handed sword. His eyes blazed with murderous intent as he glared at Arek, then vanished, reappearing by Rin. Arek had activated Siroser’s own teleportation spell to move him in front of Rin. Rin, seeing the madness in Siroser's eyes, cast a spell that created gravity instances around her joints to enhance her movements and somersaulted backward, kicking him away.
+[talk] Rin: “How dare you?”
+[talk] Arek: “Don't you dare touch my wife!”
+Siroser's fury was uncontrolled, his hatred boiling over. He swung wildly at Rin, managing to land a hit that sent her falling. As he moved in for the kill, Arek intervened.
+[think] Rin: “He's trying to kill me…”
+[talk] Arek: “Don’t touch her!”
+Arek sprinted in front of Rin, effortlessly deflecting Siroser's sword with his bare hands. Following it up with a powerful punch, he forced Siroser to stumble back. To the untrained eye, it seemed an extraordinary feat, but Arek had secretly used Sopi to stun Siroser while simultaneously disrupting the Ki flow within his sword. This manipulation not only rendered the blade harmless but also amplified the impact of his punch.
+[talk] Rin: “Why are you helping me?”
+Arek lunged at Siroser again, but this time, Siroser caught his fist and prepared to retaliate with his sword. The tension in the room escalated.
+[talk] Arek: “I have to protect my beautiful wife.”
+Arek's voice was calm, masking the intense situation. He was in no real danger; his control over the energies in Siroser and Sopi's hidden support meant that he could incapacitate Siroser at any time. However, he didn't want to reveal his powers or defeat Siroser himself; he wanted Rin to claim the victory. Seemingly trapped and powerless, Arek turned to Rin with a reassuring smile.
+Determined, Rin rose to her feet. Her eyes ablaze with resolve, she leaped over Siroser, grabbing the back of his neck. An electric current surged through him as she held on, and Arek surreptitiously amplified the signal. Siroser's scream filled the room before he collapsed, unconscious.
+[talk] Blue: “We Surrender!”
+Blue, who had been seemingly restraining Mari, released her and dropped to his knees, intent on surrendering. Only Arek knew that this was Eve's influence at work.
+[talk] Makito: “No! I didn’t even get to fight!”
+Makito’s frustration was palpable, but the situation had already unraveled. Rin's perceived betrayal, Blue's sudden capitulation, Makito's dismay, and their leader's defeat caused White, Red, and Green to lose heart. They hadn't even started fighting, yet they too surrendered.
+[talk] White: “We Surrender!”
+[talk] Rin: “We’re leaving.”
+Her tone was commanding, leaving no room for argument.
+[talk] Arek: “He still has to bark and lick my boots.”
+[talk] Rin: “I said we’re leaving!”
+Her voice was sharp, and the finality in it brooked no further discussion. They all departed without another word, obedience in their every step. To those who were watching, there was no question that Rin had assumed the role of their leader and that she had betrayed Siroser. Only Arek, who understood the deeper machinations at play, knew the true story.
+
+
+[talk] Mari: “Big Sister, you were incredible! I thought you had led us into a trap, but in reality, you had laid a trap for them.”
+[talk] Makito: “Big Sister is strong. I can't wait to spar with her.”
+[talk] Arek: “I knew I was right to trust my future wife.”
+Rin's thoughts swirled in confusion. The stun she had meant for Arek had landed on Siroser instead, causing him to target her with wild fury. How could she ever explain herself to Siroser? Would he ever believe her?
+[talk] Makito: “I really thought we were going to get beat up.”
+[talk] Rin: “So why were you so eager to fight?”
+[talk] Makito: “You learn from losing, not winning.”
+[talk] Mari: “Failure teaches success.”
+[talk] Arek: “Smooth seas don't make skillful sailors.”
+[talk] Rin: “You're all insane! Siroser will seek revenge.”
+[talk] Arek: “Will he claim we trapped him?”
+[talk] Rin: “There are no witnesses, no assistants. He'll never admit to anyone that he lost to us.”
+[talk] Arek: “Isn't that good?”
+Arek was mainly worried that if an expert were to scrutinize the details of their fight, they might become suspicious.
+[talk] Mari: “So why are you worried?”
+[talk] Rin: “Siroser is very well-connected, and he'll want revenge himself. I'll talk to my family and find a solution. Stay home until I come for you.”
+[talk] Makito: “Thank you, Sis.”
+[talk] Arek: “I really do have the best future wife.”
+[think] Rin: “He might be a pervert, but he never hesitated to protect me, even with a smile. Maybe he won't be a worthless husband after all.”
+A look of surprise appeared on her face, quickly followed by a blush. She turned away and left with a few final words.
+[talk] Rin: “I'm not your wife yet. Go home and stay there until I tell you to.”

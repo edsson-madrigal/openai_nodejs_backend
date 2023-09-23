@@ -1,0 +1,88 @@
+CHAPTER 8 - ACADEMY
+
+***
+They finally appproached the Academy, where a magnificent tree towering higher than the rest of the forest was home to housing and people on its branches. Despite its height, the sky was not visible due to the dense foliage that covered its sides all the way to the top.
+[talk] Bamater: “Welcome to the Borutenik Academy, where the higher you go on this tree, the more important you are considered.”
+Upon arriving at the Borutenik Academy, Arek and Mari were awestruck by the sheer size and beauty of the towering tree that served as the main building. It rose above the rest of the forest, its towering branches reaching high into the sky, seeming to touch the clouds. Despite its height, the sky was obscured by the dense foliage that surrounded the tree, creating a sense of mystery and wonder. The leaves rustled softly in the gentle breeze, and the hum of activity emanating from within the tree only added to its aura of enchantment.
+As they got closer, the power emanating from the tree's branches became more and more palpable. The tree exuded a kind of comforting warmth and serenity that put Arek and Mari at ease. They couldn't help but feel that they had arrived at a place of great importance
+[think] Arek: “We've been traveling for an extended period, but the light outside has remained unchanged. Are there no concept of day on this planet?”
+As they had never left the forest, they had never seen the sky and only experienced the ambient lighting provided by the forest canopy. Without a light cycle, how would a day be measured within this artificial lighting provided by the forest, and how long was a day beyond the canopy?
+The base of the giant tree was surrounded by a tall wall covered in moss, where they were greeted by guards stationed at the entrance, who gave them a small electric jolt using a device before allowing them entry. Except for some pyramids, the interior of the academy was like a medieval village, with winding paths and small courtyards scattered throughout. Every building was covered in lush moss, creating a natural, organic feel. As they made their way deeper, they couldn't help but marvel at the incredible sights and sounds around them, everywhere they looked, they saw people engaged in all manner of activities: some were arguing, others were studying, and others were practicing swordplay and casting spells.
+[talk] Bamater: “Do you know why there aren't any old people?”
+[talk] Mari: “Because they are all immortals who can stop aging and modify their appearance.”
+[talk] Bamater: “Precisely.”
+[talk] Mari: “Arek, you should see a Modeler to improve your appearance, so you don't stand out so much.”
+Arek, who was an albino with extremely white skin and white hair, stood out significantly.
+[talk] Arek: “I've received compliments for my snow-white skin before.”
+[talk] Mari: “That was before you became an immortal. As an immortal who can modify their body, everyone will assume you are a vain person who changed your skin color to an extreme white. Your appearance now represents who you want to be, not who you are.”
+[talk] Arek: “I am not changing who I am. What is this headband with a black marble mounted on everyone's foreheads?”
+[talk] Mari: “They are called Assistants and are amazing technology. They know everything! Everyone gets one when they join the Academy, and we’ll soon get ours.”
+[talk] Arek: “What do they do exactly?”
+[talk] Mari: “I just told you! Beastmaster, where is your Assistant?”
+[talk] Bamater: “I don't have one.”
+[talk] Mari: “Were you punished?”
+Bamater let out a loud laugh but did not answer.
+[talk] Bamater: “We have arrived.”
+They entered one of the larger buildings and made their way down a flight of stairs. They found themselves in an expansive underground infrastructure, bustling with activity. They approached a receptionist, who greeted them warmly and asked for their names and purpose for visiting.
+Before long, a man emerged from a nearby hallway, and Arek and Mari could tell immediately that he was someone important. He wore ornate robes and a stern expression, and his presence commanded attention.
+[talk] Bishop Tuku: “It's been a while, Bamater. I will take care of them. You can leave now.”
+[talk] Beastmaster Bamater: “Good luck, you two. Don't forget to register Sopi.”
+[talk] Bishop Tuku: “He gave you a familiar?”
+Arek showed Sopi to the Bishop, who was taken aback when he saw the tiny furball.
+[talk] Bishop Tuku: “He gave you a Supar? Bamater!”
+Bamater had already disappeared, leaving the Bishop with a frustrated expression. He attempted to chase after the Beastmaster, but to no avail. He returned to Arek and Mari, clearly upset by Bamater's actions.
+
+
+[talk] Bishop Tuku: “Now, let's hear your confessions. I want to understand what prompted Bamater to give you that Beast, Arek.”
+[talk] Mari: “Let me confess first, and you'll understand the true reason behind all of this, even my brother is unaware of it.”
+With that, Mari knelt before the Bishop and he placed his hand on her head. After Mari’s confession, the Bishop, under the control of Eve, went through the motions of taking Arek's confession as well.
+[talk] Mari: “Our elder brother is enrolled here at the Academy, and we paid for housing together. Can you confirm that we'll be staying together?”
+[talk] Bishop Tuku: “I will check on that while you undergo evaluation. You'll need to be reevaluated each time you advance to a new realm.”
+They were then led to another room where they underwent a series of tests, some physical, some intellectual, and others that seemed strange and without purpose. Bishop Tuku came back to see them when they were finished
+[talk] Bishop Tuku: “Arek’s middle Dantian is definitely crippled with no hope of recovery but his Upper Dantian is quite impressive. And Mari, we don’t see any pathological reason for your spontaneous casting so it is most likely psychological”
+[talk] Mari: “Can you confirm our housing arrangements?”
+[talk] Bishop Tuku: “I'm glad I double-checked. There was an error, but I corrected it and you three will now be staying together in a prime dwelling. Congratulations, you are now officially enrolled as students at the Academy. Here are your Assistants.”
+Mari was overjoyed upon receiving her Assistant.
+[talk] Mari: “This technology is amazing! I can get information about anything I see.”
+The sphere on their foreheads, known as Assistants, were presented as technological devices that could interact with their minds, even those of Mortals. After playing with it, Arek, who had a scientific background and had experience with virtual goggles, better understood what the Assistants were, as he had read about similar devices in Wikipedia.
+[think] Arek: “The sphere holds various sensors and is aware of its surroundings, even able to detect changes in a person's face. It probably reacts to voice commands, eye movements, and electrical impulses in the mind. It can also project images directly onto the retina to augment reality, but the interface is far inferior to the school's goggles. There is a lot of information available, but there is no scientific knowledge or much information about this world. It's likely used as a surveillance tool also.”
+[talk] Mari: “This magic is amazing! You can get information about anything you see.”
+[talk] Arek: “It says my middle Dantian is crippled and shows me my aptitudes.”
+[think] Arek: “The proportion of my Ki and Chakra it displays are in line with what I evaluated.”
+[talk] Bishop Tuku: “Arek, you are unable to interact with Mana, meaning you cannot use or see Mana, absorb Beast cores, cast spells, or generate shields. Magic is impossible for you, but your Chakra is impressive Your tertiary Dantian is your lower one, so your Ki and potential as a Body Refiner is limited. You should consider joining the Church.”
+[think] Arek: “I will consider it”
+[talk] Bishop Tuku: “I wish you well.”
+[talk] Mari: "Let's go home and find Makito!"
+
+
+A path was illuminated on the ground with a compass showing the way and some landmarks and people. Although the navigation was similar to the virtual goggles from Arek's school, he was disappointed by its limited functions.
+[talk] Mari: "Look, Arek! It's showing us the way home!"
+[think] Arek: "The same people who created these Assistants created the goggles in my school. I have to be cautious."
+Arek was aware that the Assistant could be used to monitor him, as it was for everyone else, so he acted as if he was awkwardly exploring its functions while appearing amazed.
+[talk] Mari: "This is our new home at the Academy."
+After passing through a door in a mound and going down a flight of stairs, they arrived in a large room with three doors that were likely their bedrooms. One of the walls was a giant root.
+[talk] Arek: "No furniture or beds?"
+[talk] Mari: "We don't need to sleep or eat anymore. We only need to learn, train, and meditate."
+Despite this, Mari felt a bit disappointed.
+[talk] Arek: "Which room is mine?"
+As soon as he asked, the Assistant highlighted the room next to the root.
+[shout] Mari: "Makito!"
+A tall and well-built boy with purple eyes, just like Mari's, emerged from a room opposite the root. He was close to 6 feet tall with broad shoulders and a muscular physique. The boy rushed over to Mari and hugged her tightly, but then became immobile as Eve took control. When he regained consciousness, he lifted Arek as if he was a feather, holding him in one arm.
+[shout] Ark: "Arek!"
+Arek was surprised to see that this was his brother Makito, who was a powerful Cultivator with a large amount of Ki.
+[talk] Mari: "Let him go, Makito. He lost his memory and must be confused."
+[talk] Makito: "Don't you remember me?"
+[talk] Arek: "You feel familiar."
+[talk] Makito: "You do remember me!"
+[talk] Mari: "Not happy to see me?"
+While still holding Arek in one arm and Mari in the the other, like dolls, Makito hugged both of them with a big smile.
+[talk] Mari: "Enough, enough, put us down."
+Makito then explained everything about life at the Academy. The Assistant would hold a lot of information to help them. The higher levels of the tree were off-limits unless directed by the Assistant.
+The students were not allowed to leave the Academy without permission and everything had to be paid for with "Credits," a virtual currency managed by their Assistant. The credits had to be earned and could not be traded directly between students. Since immortals did not need food nor a bed, they had no minimum living expenses, and the Academy did not provide anything for free.  Some students did not even have housing and simply meditated outside.
+
+
+The Academy was a complex system, divided into four distinct schools, each responsible for a different aspect of life in this immortal world. The School of Mortals was the most accessible, open even to mortal students and offering instruction in practical skills such as the use of technology and weapons. However, it it lacked any scientific, mathematical or engineering teachings.
+The School of Commerce, on the other hand, was more of a business than a school, responsible for buying and selling goods and managing the economy. Only Cultivators were allowed to participate in this school and it was strictly forbidden for students to acquire anything outside of its bounds. All transactions were conducted through the School of Commerce or an accredited merchant group, which were the only entities that could purchase or sell cultivation goods and technology. This ensured that the economy was well controlled and prevented theft or illegal transactions from taking place.
+The School of Service was open only to Cultivators and offered a way for those in need of specific services to find suitable immortals to complete their tasks. Once a request was made, the school would provide a cost and set parameters for success, and then post the mission for suitable candidates. For Awakened students without any credits, taking on missions was the easiest way to earn some. Since credits could not be transferred directly, the School of Service was the only means of hiring someone for a job.
+Finally, the School of Entertainment was responsible for managing the arena, duels, disputes, sports, bets, and any other form of gambling. This school was considered the richest of all and was a key component of the economy, providing a means of resolving conflicts and entertaining the masses. The School of Entertainment was a clear indication of the control that the government had over the population, as it allowed for disputes to be resolved through official channels, rather than through more violent or chaotic means.
+Despite the apparent efficiency of this system, Arek couldn't help but admire and despise it at the same time. This wasn't just a school, it was a perfectly controlled economy of goods and services, with the government maintaining an all-knowing presence through the use of Assistants and regular confessions. The lack of freedom and the strict control over all aspects of life was both fascinating and unsettling to Arek.

@@ -1,0 +1,77 @@
+Chapter 15 - SEPARATED
+
+[talk] Pope: "Did you wish to speak with me about the matter concerning the Orcs?"
+[talk] Buddha: "You Goblins have an inherent fear of Orcs, so why would I seek your counsel on these insignificant creatures?"
+[talk] Pope: "I was once revered as a deity."
+[talk] Buddha: "A reincarnated Goblin deity, which makes your objectivity towards Orcs questionable. I summoned you for a much weightier reason: a Gifted Body has been discovered among the students."
+[talk] Pope: "Is it the incarnation of a deity or a bestowed Divine Blessing? Has this individual approached you? And what is their power?"
+[talk] Buddha: "They possess a power akin to yours, but stronger."
+[talk] Pope: "A human possessing powers like mine... Are you certain?"
+[talk] Buddha: "See for yourself. This transpired mere moments ago; the situation continues to unfold."
+Buddha handed a crystal to the Pope, who examined it closely. Within, he saw Makito within the pyramid fighting the guards.
+[talk] Buddha: “They are still in the pyramid, prince Aronichus is waiting for therm outside”
+[talk] Pope: “His Ki remains the same without the presence of Eathra! This is not a reincarnated God or a divine blessing… He is God’s Sacrifice and he should have another power far more dangerous”
+[talk] Buddha: “Explain yourself”
+[talk] Pope: "I made the conscious decision to reincarnate as a deity. As a reincarnated God, I inherently possess residual Ki. However, what we're witnessing here goes beyond mere residual Ki. This is the outcome of a deity's deliberate choice to seal itself and bestow divine powers upon a Chosen One."
+[talk] Buddha: “Divine powers?”
+[talk] Pope: “The Ki in their Divine body never decreases or depletes, even without Eathra. But the bigger problem is the Divine Mind, which is actually the God’s consciousness residing in the chosen without the chosen being aware. Any Psionic against the Chosen would leave the attacker’s mind completely exposed to the God, even mine. If I connected to this boy psionically, I would actually be giving the God full access to my mind and give me orders, it could even rewrite my memories as to make me believe my mental probe was successful and feed me all the misinformation it wishes.”
+[talk] Buddha: “So the God protects its chosen from the shadows by controlling the minds of those around.“
+[talk] Pope: “We have to be cautious of the God taking control of prince Aronichus”
+[talk] Buddha: “Alert prince Aronichus not to make any contact with that boy and dispatch that agent without chakra to subdue. Hasten, for we must act before they depart the pyramid.
+[talk] Pope: “I will send her now”
+
+
+When Arek spoke, Bay's eyes locked onto his, her expression even more taken aback than his.
+[talk] Bay: "You survived?"
+Excitement tinged her voice, but as she assessed him further, her demeanor changed and her voice grew somber.
+[talk] Bay: "You've become... immortal."
+Her grip on the sabers intensified, and with unwavering, cold eyes, she locked onto Arek, who was paralyzed by the overpowering gravity. Swiftly, she made her move, her blades threateningly aimed at him.
+[talk] Bay: “Die!”
+Arek acted swiftly, instructing Sopi to tag Rin and letting her hand go. Just as Bay’s sabers were about to make contact, he teleported to his familiar's location, his mind racing. He could have taken Rin with him, but he needed her to act as his eyes on the ground and a beacon for his return. Through her mana sense, he could monitor the situation. If she could establish a link with his siblings, he could bring all three of them to safety instantly. Keeping her there was a gamble, but knowing he could teleport her to his side at any sign of imminent danger gave him a sliver of reassurance.
+Rin and the Barbarian shared a brief, intense exchange before the Barbarian vanished. Lost in his thoughts and scrambling to devise a strategy, Arek was caught off-guard when the Barbarian suddenly appeared close by.
+[talk] Barbarian: “Did you think you could elude me, immortal scientist? You shall be the first to atone for the loss of my son.”
+The Barbarian's movements were a blur, and in an instant, he had Arek by the throat. An electric-like current pulsed from the Barbarian's grasp, but Arek easily neutralized it.
+The Barbarian, undoubtedly smug in his belief that he grasped a powerless awakened, was met with a defiant sneer from Arek. Through their contact, Arek discerned clear connections leading from the Barbarian. At the pinnacle was a man stationed atop a pyramid, wielding an awe-inspiring reservoir of mana. This man, with a connection to the Inquisitor but not to Bay, was the unseen hand behind the suffocating gravitational force.
+For Arek, the true essence of the pyramid became evident. It wasn't merely a source of energy; it established a realm. This dominion granted its wielder control over an expansive area, extending even beyond their present location. Within it, the user could cast spells targeted anywhere without the usual necessity for a direct link to the intended recipient.
+Arek instructed Sopi to tag the Barbarian through his touch. This allowed Arek to maintain his own connection to this mysterious man on the pyramid, giving him a sense of control over the situation. Promptly, he teleported to his companions, while the Barbarian was left with his hand grasping nothing but thin air.
+
+Rejoining his companions, Arek's first course of action was to counteract the Gravity spell. He achieved this by disrupting the Chakra flow within the upper Dantian of the figure perched atop the pyramid, which powered the spell. The man was taken aback to see Arek evade the Barbarian's clutches. He quickly deduced that a teleportation spell cast by one of Arek's companions had whisked him to safety, but the unexpected disruption of his gravity spell left him truly baffled.
+When Arek unexpectedly returned to Bay's side, her eyes widened in disbelief. She had been convinced that the Barbarian was chasing Arek down.
+Arek [talk]: "This big dummy won't be troubling us again."
+Inquisitor [talk]: "You're saying you dealt with Prince Aronichus? Impossible!”
+The man of the pyramid smirked at the foolishness of Arek and sent a telepathic message to the Barbarian, Prince Aronichus, urging him to teleport back to their location.
+Prince Aronichus [talk]: "I'm unable to return; something's interfering with my spells, chakra, and ki."
+From his position within the pyramid, the man received Prince Aronichus's communications with clarity, more expressive than any telepathic pictogram could convey. Intent on having Aronichus back at his side, he conjured a teleportation spell. However, much to his astonishment, the spell failed to take effect.
+Prince Aronichus [talk]: "A Supar lurks nearby. I'll hold my position until the time is right."
+Markito patted Arek on the back, his eyes radiating with genuine joy.
+Markito [talk]: "I knew you'd return to us."
+Rin gripped his hand with intensity.
+Rin [talk]: "Promise you won't leave me behind again."
+Mari’s eyes were fixed on the pyramid with its formidable guns trained on them.
+Mari [talk]: “You were safer away,”
+Four cannons discharged in unison, each zeroing in on a different target with impeccable precision. While their shields managed to absorb the impact, every hit weakened and stripped away a layer of their protective barrier. 
+Makito [talk]: "Run! I'll hold them off."
+Encircling them from a safe distance, armored soldiers aimed their guns menacingly.
+Mari [talk]: "We have nowhere to run.”
+Inquisitor [talk]: “Just surrender”
+In the face of such technology, even Arek's power proved insufficient. Their only defense now rested on the diminishing layers of their shields. Reflecting on how Sopi shared his shield with him, Arek sought to emulate this, trying to use the shields of the Barbarian and the Man on the Pyramid to protect both himself and Bay while Makito had moved to protect Mari.
+The cannons roared to life once more. This salvo struck true, causing damage to the shields of both the man atop the pyramid and the Barbarian. It was clear that they were each on the brink of losing one of their protective barriers. The impeccable timing of the hits left no doubt: the cannons were the culprits.
+The perplexed man atop the pyramid ceased the barrage, attempting to piece together the unfolding chaos. Both he and Prince Aronichus were hamstrung, unable to manipulate their energies or terminate spells. There was a looming risk that if the Inquisitor intervened, he might similarly be compromised.
+Man on Pyramid [think]: “Bay must neutralize him.”
+
+Arek's thoughts drifted back to the strand of hair Sopi had released into the wind. He pondered if it still lingered somewhere amidst the gusts. He triggered a teleport command within the figure atop the pyramid, aiming to dispatch the Inquisitor to the hair's location. Sensing the teleportation command from the figure on the pyramid, the Inquisitor readily accepted.
+The pyramid guardian was taken aback, having not willed the teleportation spell himself. The Inquisitor had been whisked away to a place outside his domain. 
+Given the chain of connections—from Arek to the Barbarian, and then to the man on the pyramid and finally to the inquisitor—the link was too diluted for Arek to either peer into the Inquisitor or thwart his spells. Unable to control him, Arek had removed the Inquisitor from the battlefield, wishing the fierce winds would scatter him to oblivion.
+
+Moments after his abrupt departure, the Inquisitor re-emerged beside Bay, appearing as untouched and composed as before. Shortly after vanishing, the Inquisitor reappeared beside Bay, seemingly undisturbed. A tag from the man atop the pyramid linked him to a network, facilitating his swift return through casting a teleportation spell.
+
+Arek [think]: “He appears unchanged; he wasn’t teleported into the wind…”
+Inquisitor [talk]: “I found myself in a land where mana was scarce. The sky was vast and open, devoid of any signs of civilization or looming threats.”
+The Inquisitor wasn’t addressing Arek but the overseer of the pyramid. While telepathy could transmit overarching sentiments, vocal communication was clearer. And within the expanse of his domain, the man atop the pyramid could discern every spoken word.
+Inquisitor [talk]: “How did you venture so far beyond our borders? What are you scheming?”
+The Inquisitor's tone suggested he believed Makito was undoubtedly responsible.
+Inquisitor [talk]: “Bay, engage him.”
+With a glare of animosity directed at Arek, Bai lunged towards Makito. Within moments, it became evident that Makito was outmatched. Meanwhile, the Inquisitor's focus shifted, his eyes keenly observing Mari, Arek and Rin.
+Arek [talk]: "Rin, tag me quick! Go back up my brother, make sure you get a tag on that redhead."
+Bay, even when pitted against both Markito and Rin, clearly held the upper hand. However, the tide shifted when Rin managed to tag her. Noticing Bay wasn't linked to anyone and had access to a teleportation spell, he promptly sent her to the location of the hair. Without missing a beat, he and Rin followed suit, using Sopi's teleportation spells.
+Considering their evident caution around Markito, Arek assumed they'd hesitate to take any action. Yet, if they did make a move, he was prepared to swiftly teleport back to the man on the pyramid and bring matters to a close. But first, he hoped Rin would shed light on their circumstances, helping him make a more informed decision about their next steps.

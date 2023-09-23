@@ -1,0 +1,77 @@
+Chapter 18 - WATCH YOUR BACK
+
+[talk] Rin: “Are we truly lost here, destined most likely to meet our end at the claws of some beast?”
+[talk] Bay: “It seems that way.”
+[talk] Rin: “And you, Arek, have a power that lets you control others’ spells and energies?”
+[talk] Arek: “That's one aspect of my abilities, yes.”
+[talk] Bay: “More importantly, Arek possesses knowledge that must never be known by the beasts. And for that very reason, it's imperative he doesn't survive and be captured.”
+[talk] Bay: “Yes, and given the first chance, I won't hesitate to kill him. How can we be so arrogant to think his life outweighs the collective lives of humanity?”
+[talk] Arek: “Rin, I recognize the toll this ordeal has taken on you. Yet, I urge you not to lose hope.”
+[talk] Rin: “Hope? Arek, perhaps you misunderstand. Being here, away from the confines of my family and societal expectations, it's liberating. For once, I'm unshackled from the burdens of decorum and propriety. Whatever time fate grants me now, I intend to embrace every moment, free from the chains of etiquette. I've no concern for humanity's future or such responsibilities. I'll choose to protect you, even if it means risking the fate of our race”
+The same Rn, who seemed to have lost her will to live just a short while ago, now appeared invigorated, as if life had been breathed back into her spirit.
+[talk] Arek: "Bay, why don't you extend the same trust to me as Rin does?"
+[talk] Bay: “Ensuring you’re dead is too critical but I won’t act unless I'm certain of success.”
+[talk] Arek: “Give me one reason I shouldn't end you right here and now.”
+[talk] Bay: “Simple. If intelligent creatures capture you, you'll want me around to kill you."
+[talk] Arek: “That’s your reason?”
+[talk] Bay: “You're the genius here. You find a reason to keep your would-be killer close because trust me, I’ll be tailing you to the very end.”
+[talk] Arek: “Keeping you close so you can kill me if needed... I see your logic."
+[talk] Bay: “Does your power work on anybody you see?”
+[talk] Arek: “It functions on those I have a direct connection to or through Sopi, and anyone directly connected to them.”
+[talk] Bay: “It’s  limited to just humans?”
+[talk] Arek: “No, it works on creatures as well.”
+[talk] Bay: “Why divulge is much? I could use this information against you.”
+[talk] Arek: “Even if we sever our connection, the moment you touch me, your abilities become mine and your attacks will be void of Ki. We should ensure you remain linked to me. If I'm captured, humanity's fate is sealed.”
+[talk] Bay: “I see, so I’m both your killer and your protector. Interesting proposal. Elaborate on how your power operates.”
+[talk] Arek: “I can peer into others, altering their energies, triggering their spells, and even redirecting psionic onslaughts or utilizing their shields.”
+[talk] Rin recalled their initial meeting…
+[talk] Rin: “You creep! You intentionally did that, didn’t you?”
+[talk] Bay: “And who might you be?”
+[talk] Rin: “I am Rin, daughter of Lord Beraraber, and this rogue's betrothed.”
+[talk] Bay: “Seeing as I’ll be with Arek till one of us meets our end, and considering he’s witnessed my unclothed form, shouldn't that make me his intended?”
+[talk] Rin: “He’s seen you too?!”
+[talk] Bay: “Ah, this promises to be entertaining. I do hope you last a while.”
+
+[talk] Arek: “As a fellow scientist, what's your perspective on the society Buddha established?”
+[talk] Bay: “Considering it's humanity's final stronghold, it's masterfully crafted—a testament to genius. That’s all I’ll say.”[talk] Arek: “What about the chance of finding other humans?”
+[talk] Arek: “Is there other human settlements out there?”
+[talk] Bay: “Considering the challenges we've faced just surviving on this planet, it feels almost miraculous. Sometimes I wonder if Buddha's legend as a deity might hold some truth.”
+[talk] Arek: “What if other humans found refuge on different planets? Perhaps Source Earth remains intact. Don't certain races utilize Supars to traverse the universe? Those cosmic pathways could lead to other habitable planets with remnants of humanity.”
+[talk] Bay: “Why would I be trying to kill you if humans had brought their technology anywhere else in the universe and survived? You are right that many worlds are connected and the fact that no beasts have technology is proof that we are the last of humanity. As for Source Earth, even if it still stands, with no Mana, there is no way to teleport to it so it might as well not exist.”
+[talk] Arek: “What can you share about forests? I trust that's not confidential.”
+[talk] Bay: “In our homeland, all trees belong to a singular species and form an interconnected community. They coexist with creatures and civilizations, like orcs and us, provided we don't threaten them. Their vast canopies shield us from the winds, amplified by gravitational spells to repel or decelerate approaching objects. Trees can attain sentience, but they're inherently aloof, sparing their attention solely for Buddha. They exercise dominion over the plants in their territory, so it’s wise to remain on their good side. The fruits they bear nourish herbivores, which in turn, contribute to the creation of new cores embedded with preset spells. As for the flora, their functioning remains enigmatic since they lack cores.”
+[talk] Arek: “How about carnivores?”
+[talk] Bay: “Much like us, carnivores have external cores housed in their Dantian, which serve as reservoirs for their innate abilities. As they evolve into new realms, these abilities are naturally unlocked. However, each carnivore species is uniquely attuned to specific spells, which means they require certain cores for progression. As a result, different carnivore races specialize in hunting particular herbivores, ensuring they obtain the specific cores they need.”
+[talk] Areki: “Give we don’t possess specialized cores, shouldn't we be safe from being targeted as prey?”
+[talk] Bay: “Ironically, we're a delicacy. Not for our cores, but our flesh. Consuming enough of a species allows creatures to adopt traits from the ingested DNA, guiding their evolution. Aspiring to be human – to have the freedom to choose spells – is every creature's dream. Some intelligent herbivores wouldn't hesitate to devour us either. So, in a way, you becoming a meal might actually serve a bigger purpose. Let's hope the local fauna recognizes the potential benefits of a human diet.”
+
+[talk] Areki: “Are the trees in conflict with any creatures?”
+[talk] Bay: “Yes, primarily the Bugs. Both Orcs and we assist the trees in fending them off.”
+[talk] Areki: “Bugs? Explain.”
+[talk] Bay: “Massive insects, but their aversion to water keeps them at bay of our island. As part of our pact with the forest, we do raids to confront them and, in the process, gather chitin.”
+[talk] Arek: “What can you tell about the first we are in?”
+[talk] Bay: “This forest stands out in its diversity. Unlike other regions where trees of the same species dominate, here we find an eclectic mix of different species, each with its distinct foliage and growth patterns. The rich undergrowth, teeming with a myriad of plant life, further adds to the complexity. What's particularly intriguing is the behavior of the debris falling form the wind. It doesn't just fall to the ground; it bounces off at high altitudes, with some pieces seeming to be directed towards rival trees. This pronounced gravitational repulsion paints a picture of an ecosystem where trees aren't just co-existing, but actively competing against each other for dominance. It's a subtle battleground.”
+[talk] Arek: “If these trees are constantly competing with one another, it suggests they don't face common adversaries such as the Bugs to unite against. This competitive environment means they’ve evolved strategies and defenses to outdo each other, which could be perilous for intruders like us. Moreover, their isolation from the larger ecosystem would mean they're unaware of any alliances we've formed elsewhere. Their reactions to our presence, their alliances, and even their territorial boundaries remain unknown. ”
+[talk] Bay: “We need to consider that our presence here is possibly a novel experience for these trees. We might be an anomaly, the first humans to wander through their midst. In the natural world, unfamiliarity often breeds caution. Predatory species are generally the ones to take a chance on something unfamiliar, as it might be a new food source. But trees, given their nature, don't share that aggressive predilection. Thus, they might be more likely to observe rather than attack. While we maintain our vigilance, we should also lean into the protection the trees offer. Travelling amongst their sprawling branches would provide us a vantage point, a clearer path, and might reduce our interactions with the hidden dangers lurking beneath the thick underbrush on the forest floor.”[talk] Arek: “Our current location is a mystery, and I'm not keen on returning just to face execution. My priority is finding other humans. You'll need to re-evaluate your intent to harm me. Any travel suggestions excluding the east?”
+[talk] Arek: “The idea of returning and facing an execution isn't on my agenda. My primary goal now is to seek out any other human presence on this unfamiliar land. Do you have any suggestions for our next move?”
+[talk] Bay: “If by some chance other humans ventured to this planet and managed to endure its challenges, they might have been drawn to the barren tropics. If there's any semblance of safety to be found, I'd wager it would be there for us as well. But, a word of caution: we must be wary of the vast seas. The Atlantes, known for their unpredictable nature, have made those waters their domain.”
+[talk] Arek: “Could you guide us in the right direction?”
+[talk] Bay: “Of course, pay attention to the subtle cues of this world. The wind, in particular, originates from Mana-rich environments. By following its direction, we should be led towards the barren tropics.”
+
+[talk] Arek: “We've been marked by several plants.”
+[talk] Bay: “You can detect such tags?”
+[talk] Arek: “I perceive various energy forms. Whenever I'm tagged, an automatic connection establishes between me and the tagger. From what I see, each tree operates like its own sovereign realm. Plants are intriguing; their spells seem to form naturally without relying on cores. While I can disrupt these spells, I can't activate them. Should I break these connections?”
+[talk] Bay: “Keep them intact. These markings might be a precautionary measure against any potential threat we pose. Flaunting your unique ability could draw unwanted attention. Trees possess a certain level of intelligence; they might harbor intentions to harness your power.”
+[talk] Arek: “The sheer number of connections is overwhelming, making it difficult to monitor each one. If a hostile spell is cast against us, I might not be able to counteract it in time.”
+[talk] Bay: “The risk of revealing your capabilities outweighs the potential threat. Your unique ability cannot fall into the wrong hands.”
+[talk] Arek: "Considering Sopi's unique attributes, wouldn't it be wise to use it for scouting?"
+[talk] Bay: "Sopi does have its advantages, but it may not offer the speed we need right now. We can't afford to linger here. Unfortunately, due to a complication with my upper Dantian, I can only cast spells with immediate effects, ideal for evasion and combat but not for long-range scouting. Rin, what about you?”
+[talk] Rin: "As a Devil martial artist, I've honed my skills with Psionics and Spells to bolster my fighting, agility and speed. With Qing Gong, I can swiftly navigate through the tree branches."
+[talk] Arek: “During your bout with Siroser, I noticed that spell. You seamlessly adjusted gravity's pull at your ankles, allowing for that nimble leap and quick movements.”
+[talk] Bay: "It's reminiscent of the Wire-Fu stunts from old Source Earth films. But with Rin, it's not just limiting to gravity-defying leaps with soft landings on fragile branches. She can accelerate her movements and strike with heightened velocity."
+[talk] Rin: "Though I might not possess the formidable strengths you both command, I'm committed to proving my worth.
+[talk] Bay: “Rin, take the lead in our reconnaissance. Arek, ensure her safety. If danger looms, retrieve her immediately.”
+[talk] Arek: “Rin, establish a tag with me. This, along with Sopi’s mark, will offer an added layer of connection.”
+As Rin leaped gracefully into the canopy, Arek attentively monitored her journey, monitoring the myriad of tags converging on her.
+[talk] Bay, smirking slightly: “She'd be a fitting second wife, wouldn't she?”
+

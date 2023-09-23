@@ -1,0 +1,11 @@
+CHAPTER 0 - PROLOGUE
+
+[speak] Him: "I will always be here to shield you from harm."
+[speak] Her: "And I will always be by your side, to support and guide you."
+[speak] Him: "If there is an afterlife, I will wait for you there."
+[speak] Her: "And I will find my way to you, no matter what."
+[speak] Him: "Farewell, my love."
+With a final look, he disappeared into the unknown.
+[speak] Her: "Farewell, my heart."
+A single tear fell down her cheek as she too, vanished
+***
