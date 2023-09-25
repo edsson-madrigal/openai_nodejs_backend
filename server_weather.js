@@ -57,24 +57,30 @@ async function runCompletion(prompt) {
   return response;
 }
 
-
 //get weather
 async function getWeather(parsed_function_arguments) {
   try {
     const response = await axios.get(
-      'http://api.weatherapi.com/v1/current.json',
-      { params: { q: parsed_function_arguments.location, key: process.env.WEATHER_API_KEY } }
+      "http://api.weatherapi.com/v1/current.json",
+      {
+        params: {
+          q: parsed_function_arguments.location,
+          key: process.env.WEATHER_API_KEY,
+        },
+      }
     );
     const weather = response.data;
     const { condition, temp_c, temp_f } = weather.current;
-    const unit = parsed_function_arguments.unit !== 'fahrenheit' ? 'celicus' : 'fahrenheit';
-    const temperature = unit === 'celicus' ? temp_c : temp_f;
-    return { temperature, unit, description: condition.text }
+    const unit =
+      parsed_function_arguments.unit !== "fahrenheit"
+        ? "celicus"
+        : "fahrenheit";
+    const temperature = unit === "celicus" ? temp_c : temp_f;
+    return { temperature, unit, description: condition.text };
   } catch (error) {
     console.error(error);
   }
 }
-
 
 app.post("/api/chatgpt", async (req, res) => {
   try {
@@ -93,8 +99,19 @@ app.post("/api/chatgpt", async (req, res) => {
       // Return the completion as a JSON response
       res.json({ data: completion.data });
       return;
-    } else {
-      console.log("called_function", called_function.name);
+    }
+
+    //get function name and arguments
+    const { name: function_name, arguments: function_arguments } =
+      called_function;
+    const parsed_function_arguments = JSON.parse(function_arguments);
+
+    if (function_name === "get_current_weather") {
+      //request 2
+      //get weather
+      //temperature, unit & description
+      const weatherObject = await getWeather(parsed_function_arguments);
+      console.log(weatherObject);
     }
   } catch (error) {
     if (error.response) {
