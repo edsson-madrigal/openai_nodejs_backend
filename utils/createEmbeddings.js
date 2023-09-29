@@ -4,6 +4,7 @@ const path = require("path");
 const getEmbedding = require("../utils/getEmbedding.js");
 const getBooksArray = require("./getBooksArray.js");
 const getSubset = require("./getSubset.js");
+const calculateCostEmbeddingsADA = require("./calculateCostEmbeddingsADA.js");
 
 const createEmbeddings = async (books) => {
   // Get the absolute path to the SQLite database file
@@ -93,7 +94,10 @@ const createEmbeddings = async (books) => {
 
 const run = async () => {
   const books = getBooksArray();
-  const filteredBooks = getSubset({ bookData: books, size: 30 });
+  const filteredBooks = getSubset({ bookData: books, size: 1000 });
+  const descriptions = filteredBooks.map((book) => book.description);
+  console.log(`Embedding cost ${calculateCostEmbeddingsADA(descriptions)}`);
+  process.exit(0);
   await createEmbeddings(filteredBooks);
 };
 run()
