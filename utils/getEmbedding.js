@@ -20,7 +20,7 @@ const getEmbedding = async (text, model = "text-embedding-ada-002") => {
     model: model,
     input: cleanedText,
   });
-  console.log(response.data);
+  //console.log(response.data);
   return response.data[0].embedding;
 };
 module.exports = getEmbedding;

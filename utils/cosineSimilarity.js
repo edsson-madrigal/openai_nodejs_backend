@@ -17,7 +17,7 @@ const cosineSimilarity = (vector1, vector2) => {
       .get(0, 0)
   );
 
-  console.log(`Similarity ${dotProduct / (magnitude1 * magnitude2)}`);
+  //console.log(`Similarity ${dotProduct / (magnitude1 * magnitude2)}`);
   return dotProduct / (magnitude1 * magnitude2);
 };
 
