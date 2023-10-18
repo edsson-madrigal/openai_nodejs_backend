@@ -56,7 +56,7 @@ const fs = require("fs");
 const axios = require("axios");
 app.post("/api/save-image", async (req, res) => {
   // Create the directory dalle_images if it doesn't exist
-  const imageDirectory = path.join(__dirname, "files");
+  const imageDirectory = path.join(__dirname, "tmp");
   if (!fs.existsSync(imageDirectory)) {
     fs.mkdirSync(imageDirectory);
   }
